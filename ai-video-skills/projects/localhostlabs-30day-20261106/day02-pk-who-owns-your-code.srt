@@ -1,0 +1,47 @@
+1
+00:00:00,120 --> 00:00:03,970
+Developer chala gaya… aur saath mein aap ki website bhi.
+
+2
+00:00:04,415 --> 00:00:07,865
+Bilal bhai ka developer, ek din phone band kar ke ghayab.
+
+3
+00:00:07,835 --> 00:00:13,605
+Domain uske email pe. Code uske laptop mein. Server ka password, sirf usko pata.
+
+4
+00:00:14,052 --> 00:00:17,022
+Ab Bilal bhai, apni hi website ke kiraye-daar hain.
+
+5
+00:00:17,256 --> 00:00:20,146
+Teen cheezein, jo hamesha aap ke naam pe honi chahiye.
+
+6
+00:00:20,460 --> 00:00:25,590
+Pehli: domain. Registrar ka account, aap ki apni email pe.
+
+7
+00:00:25,824 --> 00:00:30,554
+Doosri: code. GitHub ki repository, aap ke apne account mein.
+
+8
+00:00:30,654 --> 00:00:35,064
+Teesri: hosting. Server ka login, aap ke apne haath mein.
+
+9
+00:00:35,484 --> 00:00:38,134
+Paisa aap ka hai, to chaabi bhi aap ki.
+
+10
+00:00:38,688 --> 00:00:43,258
+Teeno chaabiyan aap ke paas hain? Comment karo: mere paas, ya pata nahi.
+
+11
+00:00:43,495 --> 00:00:47,105
+Apna setup check karwana hai? DM karo, free call pe dekh lete hain.
+
+12
+00:00:47,075 --> 00:00:51,165
+Seedhi baat, no bakwaas. Localhost Labs.

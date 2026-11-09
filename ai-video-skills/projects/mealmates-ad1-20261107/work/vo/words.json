@@ -1,0 +1,312 @@
+{
+ "pizza1": {
+  "role": "pizza",
+  "scene": "pizza",
+  "ro": "Bhai, main do logon ke liye bani hoon. Aadha mujhe kaun khaye ga?",
+  "fit": "exact",
+  "end": 3.84,
+  "first": 0.147,
+  "words": [
+   {
+    "w": "Bhai,",
+    "t0": 0.147,
+    "t1": 0.64
+   },
+   {
+    "w": "main",
+    "t0": 0.693,
+    "t1": 0.96
+   },
+   {
+    "w": "do",
+    "t0": 0.987,
+    "t1": 1.04
+   },
+   {
+    "w": "logon",
+    "t0": 1.093,
+    "t1": 1.4
+   },
+   {
+    "w": "ke",
+    "t0": 1.42,
+    "t1": 1.547
+   },
+   {
+    "w": "liye",
+    "t0": 1.564,
+    "t1": 1.8
+   },
+   {
+    "w": "bani",
+    "t0": 1.83,
+    "t1": 1.92
+   },
+   {
+    "w": "hoon.",
+    "t0": 2,
+    "t1": 2.56
+   },
+   {
+    "w": "Aadha",
+    "t0": 2.6,
+    "t1": 2.88
+   },
+   {
+    "w": "mujhe",
+    "t0": 2.907,
+    "t1": 3.16
+   },
+   {
+    "w": "kaun",
+    "t0": 3.18,
+    "t1": 3.28
+   },
+   {
+    "w": "khaye",
+    "t0": 3.36,
+    "t1": 3.707
+   },
+   {
+    "w": "ga?",
+    "t0": 3.733,
+    "t1": 3.84
+   }
+  ]
+ },
+ "ammi": {
+  "role": "ammi",
+  "scene": "call",
+  "ro": "Mera roza hai. Aur tumhara bhi hona chahiye, kamaate kuch ho nahi.",
+  "fit": "exact",
+  "end": 4.72,
+  "first": 0.232,
+  "words": [
+   {
+    "w": "Mera",
+    "t0": 0.232,
+    "t1": 0.48
+   },
+   {
+    "w": "roza",
+    "t0": 0.56,
+    "t1": 0.96
+   },
+   {
+    "w": "hai.",
+    "t0": 1.04,
+    "t1": 1.64
+   },
+   {
+    "w": "Aur",
+    "t0": 1.78,
+    "t1": 2
+   },
+   {
+    "w": "tumhara",
+    "t0": 2.08,
+    "t1": 2.56
+   },
+   {
+    "w": "bhi",
+    "t0": 2.6,
+    "t1": 2.76
+   },
+   {
+    "w": "hona",
+    "t0": 2.8,
+    "t1": 3.04
+   },
+   {
+    "w": "chahiye,",
+    "t0": 3.12,
+    "t1": 3.92
+   },
+   {
+    "w": "kamaate",
+    "t0": 4,
+    "t1": 4.44
+   },
+   {
+    "w": "kuch",
+    "t0": 4.46,
+    "t1": 4.64
+   },
+   {
+    "w": "ho",
+    "t0": 4.72,
+    "t1": 4.72
+   },
+   {
+    "w": "nahi.",
+    "t0": 4.72,
+    "t1": 4.72
+   }
+  ]
+ },
+ "vo1": {
+  "role": "narrator",
+  "scene": "bench",
+  "ro": "Jab saari umeedein toot jaayen…",
+  "fit": "exact",
+  "end": 3.84,
+  "first": 0.192,
+  "words": [
+   {
+    "w": "Jab",
+    "t0": 0.192,
+    "t1": 0.24
+   },
+   {
+    "w": "saari",
+    "t0": 0.28,
+    "t1": 0.64
+   },
+   {
+    "w": "umeedein",
+    "t0": 0.72,
+    "t1": 1.24
+   },
+   {
+    "w": "toot",
+    "t0": 1.28,
+    "t1": 1.44
+   },
+   {
+    "w": "jaayen…",
+    "t0": 1.52,
+    "t1": 3.84
+   }
+  ]
+ },
+ "vo2": {
+  "role": "narrator",
+  "scene": "app",
+  "ro": "…MealMates kholo.",
+  "fit": "exact",
+  "end": 1.6,
+  "first": 0.072,
+  "words": [
+   {
+    "w": "…MealMates",
+    "t0": 0.072,
+    "t1": 0.6
+   },
+   {
+    "w": "kholo.",
+    "t0": 0.62,
+    "t1": 1.6
+   }
+  ]
+ },
+ "pizza2": {
+  "role": "pizza",
+  "scene": "table",
+  "ro": "Ab hui na baat!",
+  "fit": "exact",
+  "end": 1.6,
+  "first": 0.139,
+  "words": [
+   {
+    "w": "Ab",
+    "t0": 0.139,
+    "t1": 0.16
+   },
+   {
+    "w": "hui",
+    "t0": 0.24,
+    "t1": 0.48
+   },
+   {
+    "w": "na",
+    "t0": 0.52,
+    "t1": 0.8
+   },
+   {
+    "w": "baat!",
+    "t0": 0.86,
+    "t1": 1.6
+   }
+  ]
+ },
+ "vo3": {
+  "role": "narrator",
+  "scene": "end",
+  "ro": "Deal 2 ki hai. Dost hum de dein ge.",
+  "fit": "exact",
+  "end": 2.8,
+  "first": 0.16,
+  "words": [
+   {
+    "w": "Deal",
+    "t0": 0.16,
+    "t1": 0.32
+   },
+   {
+    "w": "2",
+    "t0": 0.373,
+    "t1": 0.48
+   },
+   {
+    "w": "ki",
+    "t0": 0.587,
+    "t1": 0.8
+   },
+   {
+    "w": "hai.",
+    "t0": 0.88,
+    "t1": 1.7
+   },
+   {
+    "w": "Dost",
+    "t0": 1.744,
+    "t1": 1.92
+   },
+   {
+    "w": "hum",
+    "t0": 2,
+    "t1": 2.08
+   },
+   {
+    "w": "de",
+    "t0": 2.16,
+    "t1": 2.4
+   },
+   {
+    "w": "dein",
+    "t0": 2.427,
+    "t1": 2.64
+   },
+   {
+    "w": "ge.",
+    "t0": 2.68,
+    "t1": 2.8
+   }
+  ]
+ },
+ "vo4": {
+  "role": "narrator",
+  "scene": "end",
+  "ro": "Waitlist join karo.",
+  "fit": "exact",
+  "end": 2.96,
+  "first": 0.133,
+  "words": [
+   {
+    "w": "Waitlist",
+    "t0": 0.133,
+    "t1": 0.4
+   },
+   {
+    "w": "join",
+    "t0": 0.453,
+    "t1": 0.72
+   },
+   {
+    "w": "karo.",
+    "t0": 0.8,
+    "t1": 2.96
+   }
+  ]
+ }
+}

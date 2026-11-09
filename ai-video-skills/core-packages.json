@@ -1,0 +1,164 @@
+[
+ {
+  "path": "claude-content-kit",
+  "repo": "bendemartin97/claude-content-kit",
+  "commit": "29fb561a722f56d4094a8771fbc34c0f229ada35",
+  "patch": null
+ },
+ {
+  "path": "instagram-agent-skill",
+  "repo": "Jakeschincariol/instagram-agent-skill",
+  "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+  "patch": null
+ },
+ {
+  "path": "remotion-ad-video-skill",
+  "repo": "leosssvip-dot/remotion-ad-video-skill",
+  "commit": "e734c0299474132366e8270e9cffaf9a26f2c5ed",
+  "patch": null
+ },
+ {
+  "path": "remotion-ads",
+  "repo": "Maartenlouis/remotion-ads",
+  "commit": "8c779461b99a36f02bbc2d8e3ec1d6a6f2689d26",
+  "patch": null
+ },
+ {
+  "path": "remotion-official-skills",
+  "repo": "remotion-dev/skills",
+  "commit": "039e8a2fc78b67efc228d5645367838b85818a1c",
+  "patch": null
+ },
+ {
+  "path": "shortcast",
+  "repo": "mutonby/shortcast",
+  "commit": "618a5075a877773893035726002f24dc0ff9a002",
+  "patch": null
+ },
+ {
+  "path": "viral-hooks-skill",
+  "repo": "rediumvex/viral-hooks-skill",
+  "commit": "e26b339ccf452abf43bb97df54603e4781ae0a8e",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/AgriciDaniel_claude-gif",
+  "repo": "AgriciDaniel/claude-gif",
+  "commit": "7bb7e475612e7003351ea4d4186985b9c282659f",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/CJ10110425_logo-intro",
+  "repo": "CJ10110425/logo-intro",
+  "commit": "e4ac8dc9664bf9c57a4231de79c1afcefbcdbe7b",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/HRuiCcc_RuiC-motion-reel",
+  "repo": "HRuiCcc/RuiC-motion-reel",
+  "commit": "bc1ffd2a114249c7719a119dfd892ca277a05d78",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/Liamrjohnston_remotion-motion-graphics-skill",
+  "repo": "Liamrjohnston/remotion-motion-graphics-skill",
+  "commit": "b860c7921f2220b9e2a84e815ba0ae7b10858f08",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/YIAN6557_eian-riso-broll",
+  "repo": "YIAN6557/eian-riso-broll",
+  "commit": "e782ad7051f5fce1ca371523c144f4cb78ab5c40",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/acelera-agency_html-animation",
+  "repo": "acelera-agency/html-animation",
+  "commit": "8b888794bbda1c2f0542bc332ab7e41877ea9e70",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/alexgreensh_anidoodle",
+  "repo": "alexgreensh/anidoodle",
+  "commit": "9c20e77467be393e54c7193611eeec2f7bfb8cc7",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/awesome-skills_manim-skill",
+  "repo": "awesome-skills/manim-skill",
+  "commit": "f8479fa475aace157f12a161519e4bb497a35fbf",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/diffusionstudio_lottie",
+  "repo": "diffusionstudio/lottie",
+  "commit": "3c72912fad543897f90045ed4d355813837927fc",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/fernandokaraka_remotion-motion-graphics-skill",
+  "repo": "fernandokaraka/remotion-motion-graphics-skill",
+  "commit": "1fc286924c68260b7945f1f29e474b986446b70d",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/hacimertgokhan_geomotion",
+  "repo": "hacimertgokhan/geomotion",
+  "commit": "88c1c1c4f8946309f961ef6e7983171da7a95d07",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/iart-ai_kinetic-typography-skills",
+  "repo": "iart-ai/kinetic-typography-skills",
+  "commit": "fccc94bd325d824235ee9e715e65abde57b6513a",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/iart-ai_youtube-video-skills",
+  "repo": "iart-ai/youtube-video-skills",
+  "commit": "f3df381d65abe5078f5ed410bbc3ed72e7cb92bd",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/lazypay_Archscribe",
+  "repo": "lazypay/Archscribe",
+  "commit": "46ea42cfc6c557ab238867c390bb18320fd36769",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/liuliu-66-create_ll-video-motion",
+  "repo": "liuliu-66-create/ll-video-motion",
+  "commit": "b58c70a4ee6bd2a0b87c7b2d3bf6c7e0d611ac06",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/nolangz_pixel2motion",
+  "repo": "nolangz/pixel2motion",
+  "commit": "e9faedb28930df0da2acf17da00c80730a78cfe8",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/sudadom_arabic-motion-graphics-skill",
+  "repo": "sudadom/arabic-motion-graphics-skill",
+  "commit": "c437efea1daf9b1fce2b86f92a4098f2fd9df4bc",
+  "patch": "patches/sudadom_arabic-motion-graphics-skill.patch"
+ },
+ {
+  "path": "motion-graphics/toufuim_personal-ip-brand-intro-skill",
+  "repo": "toufuim/personal-ip-brand-intro-skill",
+  "commit": "bd6497b3639f6051c54844483d0af440d14f6310",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/ythx-101_live-panel-skill",
+  "repo": "ythx-101/live-panel-skill",
+  "commit": "439c9addce7e7ac2b4e384aa847a351926c8f945",
+  "patch": null
+ },
+ {
+  "path": "motion-graphics/zhenwusw_orca-motion-skill",
+  "repo": "zhenwusw/orca-motion-skill",
+  "commit": "c88a9f8fb2ac1984a3ca2d74168110b6dc853d51",
+  "patch": null
+ }
+]

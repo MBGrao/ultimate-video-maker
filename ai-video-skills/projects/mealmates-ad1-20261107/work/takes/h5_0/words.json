@@ -1,0 +1,22 @@
+{
+ "h5": {
+  "role": "hamza",
+  "scene": "table",
+  "ro": "Aadha aadha!",
+  "fit": "exact",
+  "end": 0.64,
+  "first": 0,
+  "words": [
+   {
+    "w": "Aadha",
+    "t0": 0,
+    "t1": 0.24
+   },
+   {
+    "w": "aadha!",
+    "t0": 0.28,
+    "t1": 0.64
+   }
+  ]
+ }
+}

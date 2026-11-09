@@ -1,0 +1,56 @@
+{
+ "reel": {
+  "lang": "hi",
+  "lines": [
+   {
+    "k": "hook",
+    "role": "host",
+    "scene": "hook",
+    "ro": "Har client aate hi kehta hai: \"Mujhe ek app chahiye.\"",
+    "tts": "[confident] हर client आते ही कहता है... \"मुझे एक app चाहिए।\""
+   },
+   {
+    "k": "con",
+    "role": "host",
+    "scene": "con",
+    "ro": "Zyadatar ko nahi chahiye. Unhe chahiye ek spreadsheet jo khud update ho jaaye.",
+    "tts": "[matter-of-fact] ज़्यादातर को नहीं चाहिए। उन्हें चाहिए एक spreadsheet जो ख़ुद update हो जाए।"
+   },
+   {
+    "k": "stay",
+    "role": "host",
+    "scene": "stay",
+    "ro": "Teen sawaal se pata chalega. Teesra wahi hai jahan budget dam tod deta hai.",
+    "tts": "[serious] तीन सवाल से पता चलेगा। तीसरा वही है जहाँ budget दम तोड़ देता है।"
+   },
+   {
+    "k": "q1",
+    "role": "host",
+    "scene": "q1",
+    "ro": "Ek: ise use kaun karega? Customers? Shayad app. Sirf aapki team? To aapko internal tool chahiye, App Store listing nahi.",
+    "tts": "एक: इसे use कौन करेगा? Customers? शायद app. सिर्फ़ आपकी team? तो आपको internal tool चाहिए, App Store listing नहीं।"
+   },
+   {
+    "k": "q2",
+    "role": "host",
+    "scene": "q2",
+    "ro": "Do: kya wahi kaam roz hota hai? Orders copy karna, reports nikalna, stock update karna. Agar repeat hota hai, to automate karo.",
+    "tts": "दो: क्या वही काम रोज़ होता है? Orders copy करना, reports निकालना, stock update करना। अगर repeat होता है, तो automate करो।"
+   },
+   {
+    "k": "q3",
+    "role": "host",
+    "scene": "q3",
+    "ro": "Teen: kya aap poora system ek page pe draw kar sakte ho? Agar nahi, to abhi build mat karo. Yahi step log skip karte hain, aur yahin budget explode hota hai.",
+    "tts": "तीन: क्या आप पूरा system एक page पे draw कर सकते हो? अगर नहीं, तो अभी build मत करो। यही step लोग skip करते हैं... और यहीं budget explode होता है।"
+   },
+   {
+    "k": "cta",
+    "role": "host",
+    "scene": "cta",
+    "ro": "Hum har project ko pehle ek page pe scope karte hain, code ki ek line likhne se bhi pehle. SCOPE comment karo, aur main aapko apni checklist bhej dunga.",
+    "tts": "[warm] हम हर project को पहले एक page पे scope करते हैं, code की एक line लिखने से भी पहले। scope comment करो, और मैं आपको अपनी checklist भेज दूँगा।"
+   }
+  ]
+ }
+}

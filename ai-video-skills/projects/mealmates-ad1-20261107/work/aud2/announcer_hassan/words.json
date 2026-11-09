@@ -1,0 +1,27 @@
+{
+ "a1": {
+  "role": "announcer",
+  "scene": "waiter",
+  "ro": "Attempt 1, fail!",
+  "fit": "exact",
+  "end": 2.56,
+  "first": 0.072,
+  "words": [
+   {
+    "w": "Attempt",
+    "t0": 0.072,
+    "t1": 0.48
+   },
+   {
+    "w": "1,",
+    "t0": 0.693,
+    "t1": 1.2
+   },
+   {
+    "w": "fail!",
+    "t0": 1.6,
+    "t1": 2.56
+   }
+  ]
+ }
+}

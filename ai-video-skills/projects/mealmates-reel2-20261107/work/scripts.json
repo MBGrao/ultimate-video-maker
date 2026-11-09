@@ -1,0 +1,105 @@
+{
+ "ad1": {
+  "lang": "en",
+  "lines": [
+   {
+    "k": "n1",
+    "role": "narrator",
+    "scene": "hook",
+    "ro": "This is not a love story.",
+    "tts": "[dramatic] This is not a love story."
+   },
+   {
+    "k": "n2",
+    "role": "narrator",
+    "scene": "hook",
+    "ro": "This is how you save up to fifty percent eating out.",
+    "tts": "[confident] This is how you save up to fifty percent eating out."
+   },
+   {
+    "k": "n3",
+    "role": "narrator",
+    "scene": "room",
+    "ro": "Two strangers. One crowded restaurant.",
+    "tts": "[dramatic] Two strangers. One crowded restaurant."
+   },
+   {
+    "k": "ay1",
+    "role": "ayesha",
+    "scene": "ayesha",
+    "ro": "Is he\u2026 looking at me?",
+    "tts": "[whispers] Is he\u2026 looking at me?"
+   },
+   {
+    "k": "zn1",
+    "role": "zain",
+    "scene": "zain",
+    "ro": "Is she\u2026 thinking what I'm thinking?",
+    "tts": "[whispers] Is she\u2026 thinking what I'm thinking?"
+   },
+   {
+    "k": "ay2",
+    "role": "ayesha",
+    "scene": "menu",
+    "ro": "The Pizza Deal for two?",
+    "tts": "[breathless] The Pizza Deal for two?"
+   },
+   {
+    "k": "zn2",
+    "role": "zain",
+    "scene": "menu",
+    "ro": "The Pizza Deal for two!",
+    "tts": "[excited] The Pizza Deal for two!"
+   },
+   {
+    "k": "n4",
+    "role": "narrator",
+    "scene": "twist",
+    "ro": "You're not falling in love. You're splitting a pizza deal for two.",
+    "tts": "[deadpan] You're not falling in love. You're splitting a pizza deal for two."
+   },
+   {
+    "k": "n5",
+    "role": "narrator",
+    "scene": "app",
+    "ro": "MealMates matches you with someone nearby who wants the same deal.",
+    "tts": "[upbeat] MealMates matches you with someone nearby who wants the same deal."
+   },
+   {
+    "k": "n6",
+    "role": "narrator",
+    "scene": "app",
+    "ro": "Verified users only. Chat, meet up, and split the bill.",
+    "tts": "[upbeat] Verified users only. Chat, meet up, and split the bill."
+   },
+   {
+    "k": "zn3",
+    "role": "zain",
+    "scene": "table",
+    "ro": "So\u2026 half the fries are mine?",
+    "tts": "[playful] So\u2026 half the fries are mine?"
+   },
+   {
+    "k": "ay3",
+    "role": "ayesha",
+    "scene": "table",
+    "ro": "Strictly half.",
+    "tts": "[sassy] Strictly half."
+   },
+   {
+    "k": "n7",
+    "role": "narrator",
+    "scene": "end",
+    "ro": "MealMates. Split bills, share meals, save money together.",
+    "tts": "[warm] MealMates. Split bills, share meals, save money together."
+   },
+   {
+    "k": "n8",
+    "role": "narrator",
+    "scene": "end",
+    "ro": "Launching soon in Lahore and Multan. Join the waitlist at mealmatesapp.com",
+    "tts": "[warm] Launching soon in Lahore and Multan. Join the waitlist at mealmatesapp dot com."
+   }
+  ]
+ }
+}

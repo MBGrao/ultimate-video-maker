@@ -1,0 +1,17 @@
+{
+ "b1": {
+  "role": "bilal",
+  "scene": "table",
+  "ro": "Bill?",
+  "fit": "exact",
+  "end": 1.92,
+  "first": 0.293,
+  "words": [
+   {
+    "w": "Bill?",
+    "t0": 0.293,
+    "t1": 1.92
+   }
+  ]
+ }
+}

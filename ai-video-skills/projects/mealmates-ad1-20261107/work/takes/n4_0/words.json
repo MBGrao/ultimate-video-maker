@@ -1,0 +1,27 @@
+{
+ "n4": {
+  "role": "narrator",
+  "scene": "app",
+  "ro": "Match, seconds mein!",
+  "fit": "exact",
+  "end": 1.6,
+  "first": 0,
+  "words": [
+   {
+    "w": "Match,",
+    "t0": 0,
+    "t1": 0.4
+   },
+   {
+    "w": "seconds",
+    "t0": 0.56,
+    "t1": 1.2
+   },
+   {
+    "w": "mein!",
+    "t0": 1.28,
+    "t1": 1.6
+   }
+  ]
+ }
+}

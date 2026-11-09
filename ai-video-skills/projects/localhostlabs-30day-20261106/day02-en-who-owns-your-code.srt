@@ -1,0 +1,43 @@
+1
+00:00:00,120 --> 00:00:03,970
+If your developer disappeared tomorrow, would your business survive?
+
+2
+00:00:04,415 --> 00:00:10,185
+The domain is on their email. The code lives on their laptop. Only they know the server password.
+
+3
+00:00:10,290 --> 00:00:13,180
+You paid for it. But you're renting your own website.
+
+4
+00:00:13,494 --> 00:00:16,224
+Here are the three keys you must own.
+
+5
+00:00:16,722 --> 00:00:20,892
+One. Your domain. The registrar account, on your own email.
+
+6
+00:00:20,994 --> 00:00:25,724
+Two. Your code. The GitHub repository, in your own account.
+
+7
+00:00:25,824 --> 00:00:30,554
+Three. Your hosting. The server or cloud login, in your hands.
+
+8
+00:00:30,654 --> 00:00:32,584
+You paid for it. Own the keys.
+
+9
+00:00:32,813 --> 00:00:36,983
+Do you have all three? Comment own it, or not sure.
+
+10
+00:00:37,063 --> 00:00:41,393
+Want a second pair of eyes on your setup? DM us. The first call is free.
+
+11
+00:00:41,363 --> 00:00:44,973
+No jargon. Just shipped. Localhost Labs.

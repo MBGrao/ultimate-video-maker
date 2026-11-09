@@ -1,0 +1,9 @@
+Teeno chaabiyan aap ke paas hain? Comment karo HAAN ya NAHI, sach batana.
+
+Day 2/30, scam alert. Bilal bhai ka developer ek din phone band kar ke ghayab: Domain uske email pe, Code uske laptop mein, Server ka password sirf usko pata. Ab Bilal bhai apni hi website ke kiraye-daar hain.
+
+Website banwane se pehle 3 cheezein apne naam pe rakho: Domain ka registrar account, GitHub ki repository, aur Hosting ka login.
+
+Paisa aap ka hai, to chaabi bhi aap ki. Multan se, Localhost Labs.
+
+#localhostlabs #scamalert #websitedevelopment

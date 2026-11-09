@@ -1,0 +1,43 @@
+1
+00:00:00,140 --> 00:00:03,081
+Poora advance diya, aur developer ghayab?
+
+2
+00:00:03,286 --> 00:00:07,295
+Sana ne apni boutique ki app, sirf ek phone call pe de di.
+
+3
+00:00:07,285 --> 00:00:09,662
+Na likha hua scope, na koi date.
+
+4
+00:00:10,136 --> 00:00:13,730
+Teen mahine baad jawab aaya: bas do din aur, bhai.
+
+5
+00:00:13,817 --> 00:00:16,783
+Kaam dene se pehle, ye teen cheezein maango.
+
+6
+00:00:16,974 --> 00:00:21,515
+Pehli: zubaani nahi, likh kar. Scope, milestones, aur fixed price.
+
+7
+00:00:21,711 --> 00:00:25,422
+Doosri: poora advance nahi. Har milestone pe payment.
+
+8
+00:00:25,926 --> 00:00:29,923
+Teesri: har hafte chalta hua demo. Slides nahi, asli app.
+
+9
+00:00:30,128 --> 00:00:33,186
+Yaad rakho: andaaza nahi, likha hua plan.
+
+10
+00:00:33,298 --> 00:00:37,201
+Save karo, aur us dost ko bhejo jo app banwa raha hai.
+
+11
+00:00:37,501 --> 00:00:41,673
+Localhost Labs pe pehli call free hai. Follow karo, DM karo.

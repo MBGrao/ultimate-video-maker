@@ -1,0 +1,2935 @@
+{
+ "022512db-netizen/rhythm-dancer-video": {
+  "commit": "1214e36e4ef8b935bce08e71859d6f1e8bcd7f2d",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/022512db-netizen__rhythm-dancer-video",
+  "status": "present"
+ },
+ "0x68616F4C/auto-popsci": {
+  "commit": "2087bb8ca571074e15a35879f14a7ca10a049dbf",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/0x68616F4C__auto-popsci",
+  "status": "present"
+ },
+ "0xS4N4TG/kinetograph": {
+  "commit": "de57d0b41c73292d2d4e664909e054f9abe05ab4",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/0xS4N4TG__kinetograph",
+  "status": "present"
+ },
+ "0xS4N4TG/papercut-explainer": {
+  "commit": "ff8223abc8136cc09e8d7e9b62ecb5d080c389e1",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/0xS4N4TG__papercut-explainer",
+  "status": "present"
+ },
+ "0xsline/OpenChatCut": {
+  "commit": "7fa4b7903e7ebecf832a36249f0c0c755200cc17",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/0xsline__OpenChatCut",
+  "status": "present"
+ },
+ "10291124jcjc-dotcom/ancient-rap-battle": {
+  "commit": "2a9219ae9dee0b22ed676bdd34448891e361629d",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/10291124jcjc-dotcom__ancient-rap-battle",
+  "status": "present"
+ },
+ "10291124jcjc-dotcom/xp-desktop-mv": {
+  "commit": "8b32202b3cfd803f52c6717e2a24983f3e942d70",
+  "grade": "caution",
+  "kind": "music",
+  "path": "catalog/_caution/10291124jcjc-dotcom__xp-desktop-mv",
+  "status": "present"
+ },
+ "124zhe/xigua-msvideo-skill": {
+  "commit": "b9a00165c9fddbc85eb59334f682440f62004cc5",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/124zhe__xigua-msvideo-skill",
+  "status": "present"
+ },
+ "8533502-dev/deepseek-opus-motion-skill": {
+  "commit": "dd0e05264a6cd7ad714c0899e17157584290bad4",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/8533502-dev__deepseek-opus-motion-skill",
+  "status": "present"
+ },
+ "AIBiz-Automatyzacje/maszynka-do-shortsow": {
+  "commit": "9546bd3a55977ecd9fa55aa55c3b05a156ba8fa1",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/AIBiz-Automatyzacje__maszynka-do-shortsow",
+  "status": "present"
+ },
+ "AIPMAndy/Andy-Video-Skill": {
+  "commit": "3603ee1b7286084744f2a8aadf296b1521b6b7b1",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/AIPMAndy__Andy-Video-Skill",
+  "status": "present"
+ },
+ "AISEO-VirtualabDigital/mcp-video-editor": {
+  "commit": "ca2d101172158ce7d069d1b34040ff57e61bcd73",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/AISEO-VirtualabDigital__mcp-video-editor",
+  "status": "present"
+ },
+ "AKMessi/vex": {
+  "commit": "87d027cead8f7019f347ac004fe23e072cb520c6",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/AKMessi__vex",
+  "status": "present"
+ },
+ "Aaryan-Kapoor/video-production-skill": {
+  "commit": "662738c012174788d860fdee9627239e23cffef6",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Aaryan-Kapoor__video-production-skill",
+  "status": "present"
+ },
+ "AbubakrChan/product-launch-motion": {
+  "commit": "edbfb105382f21507bad895d8b5f6e0faa67487c",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/AbubakrChan__product-launch-motion",
+  "status": "present"
+ },
+ "Acorn2/frame-loom": {
+  "commit": "b904e305e420324dae3ed19f6a1b2041571d45df",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Acorn2__frame-loom",
+  "status": "present"
+ },
+ "Agentchengfeng/chengfeng-video-styles": {
+  "commit": "b9afa09d0733f8ac8998b0b5e3630f14cdd0eb83",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Agentchengfeng__chengfeng-video-styles",
+  "status": "present"
+ },
+ "AgriciDaniel/claude-gif": {
+  "commit": "7bb7e475612e7003351ea4d4186985b9c282659f",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/AgriciDaniel_claude-gif",
+  "status": "preinstalled"
+ },
+ "AgriciDaniel/claude-shorts": {
+  "commit": "a369fad9d84287edbb8fa3ab515f268e770f683b",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/AgriciDaniel__claude-shorts",
+  "status": "present"
+ },
+ "AgriciDaniel/lipnardo": {
+  "commit": "cb1c4090fe32bc84e055bf2e957de0add33687a1",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/AgriciDaniel__lipnardo",
+  "status": "present"
+ },
+ "AlexAnsart/demo-studio": {
+  "commit": "74ecd6c949b7f903fd616ee4b0c53ad22d2a68aa",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/AlexAnsart__demo-studio",
+  "status": "present"
+ },
+ "Ali-Aria/aria-animator": {
+  "commit": "f32707ac816c5f49c28cff3777be14c9f3f51c8e",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Ali-Aria__aria-animator",
+  "status": "present"
+ },
+ "Alisa0808/vox-director": {
+  "commit": "6a85a7c341610442a6a5b1885e6e0217ab82a11f",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Alisa0808__vox-director",
+  "status": "present"
+ },
+ "AllenAI2014/remotion-guofeng-starter": {
+  "commit": "af8e76de19db7fbc9d838d4928627a63f53d095c",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/AllenAI2014__remotion-guofeng-starter",
+  "status": "present"
+ },
+ "AmazingAng/ccvideo": {
+  "commit": "a755569c6f504428072f891ec3e634ed96e5167f",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/AmazingAng__ccvideo",
+  "status": "present"
+ },
+ "AmirSbss/spotlight": {
+  "commit": "d148d7920a02403a981d56f7a6950587221e5d62",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/AmirSbss__spotlight",
+  "status": "cloned"
+ },
+ "AmitSubhash/3brown1blue": {
+  "commit": "fd9bf9c69ac33519acc00dc7faa21bd14b241e54",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/AmitSubhash__3brown1blue",
+  "status": "present"
+ },
+ "Anil-matcha/vox-ai-motion-graphics-generator": {
+  "commit": "c6856442a45761f86ae67cb05efbf25f65228e7c",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Anil-matcha__vox-ai-motion-graphics-generator",
+  "status": "present"
+ },
+ "Anil-matcha/zack-d-films-ai-video-generator": {
+  "commit": "24fe4cca18cd15f1b960cebfd6c526f7f852b1a5",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Anil-matcha__zack-d-films-ai-video-generator",
+  "status": "present"
+ },
+ "Anshgrover23/product-demo-playbook": {
+  "commit": "3a0810b57b9f48aba5fe3a2c169a90e71021bd01",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Anshgrover23__product-demo-playbook",
+  "status": "present"
+ },
+ "Arman-Luthra/aftr": {
+  "commit": "628397d700d6282fe2be4d42f4a388392250947a",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Arman-Luthra__aftr",
+  "status": "cloned"
+ },
+ "AsadMoulviDev/reel-video": {
+  "commit": "39a5ea97e81994bbaa0a546fc85fd7668f012890",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/AsadMoulviDev__reel-video",
+  "status": "present"
+ },
+ "Avijit07x/cursorcam": {
+  "commit": "8b0b1ef8d5a9eb0166c352f5078a69364a7ad9ea",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Avijit07x__cursorcam",
+  "status": "present"
+ },
+ "Barty-Bart/motion-graphics": {
+  "commit": "3d83d987d658601d8a1269eb691622bdcd427335",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/Barty-Bart__motion-graphics",
+  "status": "present"
+ },
+ "BayramAnnakov/remotion-video-director": {
+  "commit": "c16a3a0594f4f88c768c9c8c52a6edd3c9a6fbf0",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/BayramAnnakov__remotion-video-director",
+  "status": "present"
+ },
+ "BusyBee3333/animated-explainer-skills": {
+  "commit": "c1dd704921b6a7587efd8d611dbbb4838012760c",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/BusyBee3333__animated-explainer-skills",
+  "status": "present"
+ },
+ "BuzyOwl/song-video-director": {
+  "commit": "ba4cb5965f66e42c3b273420f1c9cb0b1913478d",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/BuzyOwl__song-video-director",
+  "status": "present"
+ },
+ "CJ10110425/logo-intro": {
+  "commit": "e4ac8dc9664bf9c57a4231de79c1afcefbcdbe7b",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/CJ10110425_logo-intro",
+  "status": "preinstalled"
+ },
+ "Cassette-Editor/oh-my-cassette": {
+  "commit": "fd19f89353d768878bb193ad6d58a59d7035bda9",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/Cassette-Editor__oh-my-cassette",
+  "status": "present"
+ },
+ "Chamanrajragu/purffle-shorts": {
+  "commit": "38d49cd956319a73cf983153816acdbda3dc0e0c",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/Chamanrajragu__purffle-shorts",
+  "status": "present"
+ },
+ "Changroro/code-video": {
+  "commit": "03da4e3ab149c4134a9a72eec499e1a2a41601ea",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Changroro__code-video",
+  "status": "present"
+ },
+ "ChenShuo2004/cs-shotcraft-skill": {
+  "commit": "865d26b7a8cacf7f16b3b7a56c598399c6153674",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/ChenShuo2004__cs-shotcraft-skill",
+  "status": "present"
+ },
+ "ChrisHKAI/ChrisHKAI-Video": {
+  "commit": "15b66ee613e621f82ba781d27547a67e76c55f50",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/ChrisHKAI__ChrisHKAI-Video",
+  "status": "present"
+ },
+ "Dancan254/shenghua": {
+  "commit": "5fde331ae3b6badcc4e776f5baf98cd3d3d20e82",
+  "grade": "caution",
+  "kind": "shorts",
+  "path": "catalog/_caution/Dancan254__shenghua",
+  "status": "present"
+ },
+ "Dryxio/effects-skill": {
+  "commit": "033fae29602e5a8068266bceaa319482429f8d5b",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/Dryxio__effects-skill",
+  "status": "present"
+ },
+ "EGSECDA/vocaloid-style-mv-pipeline": {
+  "commit": "1b13be4d16691efec540ef6aee25ed8a0ca5c317",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/EGSECDA__vocaloid-style-mv-pipeline",
+  "status": "present"
+ },
+ "EverMind-AI/Raven": {
+  "commit": "70f29f13afaba8fd475b684632b5a227f74b0333",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/EverMind-AI__Raven",
+  "status": "present"
+ },
+ "Fagan1024/smart-video-editor": {
+  "commit": "3131d135bedd0b11913a1ff59b289bc10c226d2a",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/Fagan1024__smart-video-editor",
+  "status": "present"
+ },
+ "FavioVazquez/showtime": {
+  "commit": "2efdb115bec3c8024b766dd93044619cd7ee00f7",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/FavioVazquez__showtime",
+  "status": "present"
+ },
+ "Finderchangchang/promo-video-skill": {
+  "commit": "217eb1f9c6c047b908bfa95ec03f729bec1247ce",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Finderchangchang__promo-video-skill",
+  "status": "present"
+ },
+ "FireRedTeam/FireRed-OpenStoryline": {
+  "commit": "c9e945215586f45c12a61c1951ee9a8e9c43a027",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/FireRedTeam__FireRed-OpenStoryline",
+  "status": "present"
+ },
+ "GODGOD126/opus-5-5-86-styles-in-motion": {
+  "commit": "39973924026a054bf868e19e32b6633b51c0a398",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/GODGOD126__opus-5-5-86-styles-in-motion",
+  "status": "present"
+ },
+ "GTAI-1/flow-mcp": {
+  "commit": "84b548f3aa72b749b82cdbfbb6f91cadebae8642",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/GTAI-1__flow-mcp",
+  "status": "present"
+ },
+ "GTKottman/mortiflix-oss": {
+  "commit": "3b65e4335266fc36b24a71a3f0383b2e23327f9e",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/GTKottman__mortiflix-oss",
+  "status": "present"
+ },
+ "GordenSun/react-bits-video": {
+  "commit": "aaf787af740064e506f898e946783841611271db",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/GordenSun__react-bits-video",
+  "status": "present"
+ },
+ "HRuiCcc/RuiC-motion-reel": {
+  "commit": "bc1ffd2a114249c7719a119dfd892ca277a05d78",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/HRuiCcc_RuiC-motion-reel",
+  "status": "preinstalled"
+ },
+ "Hainrixz/editor-pro-max": {
+  "commit": "ceec8084f651f4b5b7a8b3b302dd6d0da1cd0a2d",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Hainrixz__editor-pro-max",
+  "status": "present"
+ },
+ "Hainrixz/motion-architect": {
+  "commit": "c9d93d1b7bc7cdd6e6283a93874938b07286ccfb",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Hainrixz__motion-architect",
+  "status": "present"
+ },
+ "Hainrixz/video-editor-architect": {
+  "commit": "9989115937553f890eb0f82b822a14271bd79ba2",
+  "grade": "caution",
+  "kind": "editing",
+  "path": "catalog/_caution/Hainrixz__video-editor-architect",
+  "status": "present"
+ },
+ "HeyChengC/wallstreet-explainer": {
+  "commit": "f39845abd45dab3c9ce62587aa5d02f6afe82612",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/HeyChengC__wallstreet-explainer",
+  "status": "present"
+ },
+ "Hype-yolo/claude-motion-skill": {
+  "commit": "607fe9801529bb493b1968cd967a3e8a959d42c1",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Hype-yolo__claude-motion-skill",
+  "status": "present"
+ },
+ "IdkwhatImD0ing/claude-music-videos": {
+  "commit": "82828cbac2c50244c237279bff0ca49a4998ace2",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/IdkwhatImD0ing__claude-music-videos",
+  "status": "present"
+ },
+ "IskakovDamir/apple-motion": {
+  "commit": "d0a9c10935fff809ed86fe84840b199e4d7edb03",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/IskakovDamir__apple-motion",
+  "status": "present"
+ },
+ "JJenglert1/remotion-claude-video": {
+  "commit": "580b9a04558909eb9f2f71e4ec5f41af3e5358ae",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/JJenglert1__remotion-claude-video",
+  "status": "present"
+ },
+ "JUNKDOGE-JOE/after-effects-mcp": {
+  "commit": "10b0154ca64f5ed15096b367f160129ee9ffe503",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/JUNKDOGE-JOE__after-effects-mcp",
+  "status": "present"
+ },
+ "Jane-xiaoer/paper-collage-ad-codex": {
+  "commit": "a69c9f56eec57ca19d1c02f6bdcffe573b4324a8",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Jane-xiaoer__paper-collage-ad-codex",
+  "status": "present"
+ },
+ "JimLiu/baocut": {
+  "commit": "e9d7b0dfa71cf3999c9e6cc2584c09127abfa7af",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/JimLiu__baocut",
+  "status": "present"
+ },
+ "JimLiu/taohuayuan": {
+  "commit": "61567657a5cffd64461d8e00c5907540b733f8dc",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/JimLiu__taohuayuan",
+  "status": "present"
+ },
+ "JohnChow90/video-shotcraft": {
+  "commit": "735df4447783a0a8ed85f32ead9f7a1ca57b618e",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/JohnChow90__video-shotcraft",
+  "status": "cloned"
+ },
+ "JohnHeibel/ClaudeAnimationBase": {
+  "commit": "0ac8bf2b31942376cb6b8c4074715595d512acd2",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/JohnHeibel__ClaudeAnimationBase",
+  "status": "present"
+ },
+ "JohnHeibel/PDoomVideo": {
+  "commit": "fa546a38092e75f2b079e6a86d6abc54dd525d17",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/JohnHeibel__PDoomVideo",
+  "status": "present"
+ },
+ "Johnson-Jia/video-clipforge": {
+  "commit": "7e4937994bd085767a05db0737c461e59fd04810",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Johnson-Jia__video-clipforge",
+  "status": "present"
+ },
+ "Joker-chichi/claude-mv-skill": {
+  "commit": "2ccf0c6ad31f27bb67e4a81e045e912f0a7d3e23",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/Joker-chichi__claude-mv-skill",
+  "status": "present"
+ },
+ "JuneYaooo/cheap-claude-video": {
+  "commit": "7d515f9aca61636ccecb8e160065dc835ae07270",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/JuneYaooo__cheap-claude-video",
+  "status": "present"
+ },
+ "Kanvis-chen/kanvis-video": {
+  "commit": "1246a2519786014c49a7fa840db5da4a12d9345c",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/Kanvis-chen__kanvis-video",
+  "status": "present"
+ },
+ "Kappaemme-git/codex-video-short-maker-skill": {
+  "commit": "70435bb21b08a437fbdacf0231ce1b35a22cb832",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/Kappaemme-git__codex-video-short-maker-skill",
+  "status": "present"
+ },
+ "Karnaf0katom/taskfilm": {
+  "commit": "eb0be0aa97abb21ebdde9d56d5305a5cd4657667",
+  "grade": "caution",
+  "kind": "promo",
+  "path": "catalog/_caution/Karnaf0katom__taskfilm",
+  "status": "present"
+ },
+ "Kianzzz/xilo-opus-video": {
+  "commit": "f2cd828e2692e7186186408ee01a936707c2c38d",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Kianzzz__xilo-opus-video",
+  "status": "present"
+ },
+ "Kimeur/motion-launch-videos": {
+  "commit": "394027b29480602eb0874df0081bcfd0de2a3a49",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Kimeur__motion-launch-videos",
+  "status": "present"
+ },
+ "Lanqiao-Luca/ai-video-marker": {
+  "commit": "c1a352b5ceab45b979830281a4d038fb5e9c35c8",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/Lanqiao-Luca__ai-video-marker",
+  "status": "present"
+ },
+ "LetMeHappyCode/auto-video-agent": {
+  "commit": "e0a70547062072bb2d441e2bcfd95b495cc9e481",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/LetMeHappyCode__auto-video-agent",
+  "status": "present"
+ },
+ "Liamrjohnston/remotion-motion-graphics-skill": {
+  "commit": "b860c7921f2220b9e2a84e815ba0ae7b10858f08",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/Liamrjohnston_remotion-motion-graphics-skill",
+  "status": "preinstalled"
+ },
+ "LordVayron/video-factory": {
+  "commit": "8afd1b2ee65346b84df6ac42eff10f1540d9a17f",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/LordVayron__video-factory",
+  "status": "present"
+ },
+ "Lunamos/paper2video": {
+  "commit": "a8c966b1439dd41d38abbab2a309cb2415cf409f",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Lunamos__paper2video",
+  "status": "present"
+ },
+ "Maartenlouis/remotion-ads": {
+  "commit": "8c779461b99a36f02bbc2d8e3ec1d6a6f2689d26",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "remotion-ads",
+  "status": "preinstalled"
+ },
+ "MakeMyClip/editor": {
+  "commit": "782059842d3b2d3b15be55d5ec47035c1f4cbec5",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/MakeMyClip__editor",
+  "status": "present"
+ },
+ "Matteoikarieth96/whiteboard-video-skill": {
+  "commit": "75c7825e3ccaf33be933a143c561acab1deb74a6",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Matteoikarieth96__whiteboard-video-skill",
+  "status": "present"
+ },
+ "MegaTroll222/VOX-COLLAGE-BROLL": {
+  "commit": "2e9b8a93a2834e4d670700ab9e4827a8baf3b668",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "catalog/motion/MegaTroll222__VOX-COLLAGE-BROLL",
+  "status": "present"
+ },
+ "Mng-dev-ai/explainer-video": {
+  "commit": "1a534c29ac89cfc5d8ecb68402cbe41b6ef897e4",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Mng-dev-ai__explainer-video",
+  "status": "present"
+ },
+ "Moessif/code-video-showcase": {
+  "commit": "decd75d0aaaf19f81a50b52d0d02e605178916e0",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Moessif__code-video-showcase",
+  "status": "present"
+ },
+ "Monet-AI-Editor/Monet": {
+  "commit": "74fcb1646a2329dfa35acfe7b3726491544fca18",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/Monet-AI-Editor__Monet",
+  "status": "present"
+ },
+ "Mort1d/motion-graphics-skills": {
+  "commit": "7f0c3714dc81bea52644a5287c6350345009e579",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Mort1d__motion-graphics-skills",
+  "status": "present"
+ },
+ "Mr-funny/hbg-douyin-code-explainer-video": {
+  "commit": "c9d0083ba704c642080b0a9da76c319f2d33b3b2",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Mr-funny__hbg-douyin-code-explainer-video",
+  "status": "present"
+ },
+ "Mr-funny/hbg-life-simulation": {
+  "commit": "288f780c2f5ccce975e11dd3c5ff6d6eda15afa6",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/Mr-funny__hbg-life-simulation",
+  "status": "present"
+ },
+ "MuhammadaliMS/pixel-studio": {
+  "commit": "4a031875a4fa858c247704ec60f3a4a54009070a",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/MuhammadaliMS__pixel-studio",
+  "status": "present"
+ },
+ "NarratorAI-Studio/narrator-ai-cli-skill": {
+  "commit": "4b17c6f2175bd532c92db778a847f8fb6bdd3177",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/NarratorAI-Studio__narrator-ai-cli-skill",
+  "status": "present"
+ },
+ "Nealsun1993/talk-workbench": {
+  "commit": "6b9184021e3fec5b771d8c38429a65791d1f25ee",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Nealsun1993__talk-workbench",
+  "status": "present"
+ },
+ "Neelshah1810/Claude-Video-Skills": {
+  "commit": "d1645496774ce9af5941f3c410d75b1bf43e4fcb",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/Neelshah1810__Claude-Video-Skills",
+  "status": "present"
+ },
+ "OnurGumus/codebase-video": {
+  "commit": "5a399097a4f4a49f36964c69778aa4e7215de00a",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/OnurGumus__codebase-video",
+  "status": "present"
+ },
+ "PHANTOMTONYT/motion-design-skills": {
+  "commit": "1aba2ac2e1af1a0a2496b6939c371fe1b7f5e655",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/PHANTOMTONYT__motion-design-skills",
+  "status": "present"
+ },
+ "Phantomlau3674/voxstylehub-steven": {
+  "commit": "673d20505fa1aba0619f1a04ed2d1702b85d4914",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Phantomlau3674__voxstylehub-steven",
+  "status": "present"
+ },
+ "PoetCoderJun/MotionTalk": {
+  "commit": "e9549c8f753356ba58abaad3dcf03cf207e329c8",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/PoetCoderJun__MotionTalk",
+  "status": "present"
+ },
+ "RahmanBuildsAI/ravyn-reel-kit": {
+  "commit": "7315181c4d599c560887f35183eb282bf2306a4e",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/RahmanBuildsAI__ravyn-reel-kit",
+  "status": "present"
+ },
+ "RohanRatwani/explainer-video-opus-5.5": {
+  "commit": "fbbf6d852ede99eb92a43e513c1ba007b977cff7",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/RohanRatwani__explainer-video-opus-5.5",
+  "status": "present"
+ },
+ "RoverEva/eva-video-style": {
+  "commit": "67eb38ca79514b0bfc995b699309627eb5edd696",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/RoverEva__eva-video-style",
+  "status": "present"
+ },
+ "Samin12/samin-reel-engine-plugin": {
+  "commit": "178324945a6bddddc5dbd74a13664bb201f9a723",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/Samin12__samin-reel-engine-plugin",
+  "status": "present"
+ },
+ "Science-Prof-Robot/recursive-math-animator": {
+  "commit": "e60397eb52cc09987740274db804609e2969271e",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/Science-Prof-Robot__recursive-math-animator",
+  "status": "present"
+ },
+ "SpaceZephyr/map-motion": {
+  "commit": "65ab781832cace6e0f28d4c00452410a99f3a02c",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/SpaceZephyr__map-motion",
+  "status": "present"
+ },
+ "SpeedPainterOrg/explainer-video": {
+  "commit": "e89ba7e2a53505638c78757d920a1ebe231fb45e",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/SpeedPainterOrg__explainer-video",
+  "status": "present"
+ },
+ "SunandBean/paper2video": {
+  "commit": "a8f6c5e79d2aac9797aa2d2a21087f576efc0f38",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/SunandBean__paper2video",
+  "status": "present"
+ },
+ "Sunwood-ai-labs/hyperframes-motion-reel-skill": {
+  "commit": "be78681a88a70f1f66c82275299fe569a9a9fcaa",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Sunwood-ai-labs__hyperframes-motion-reel-skill",
+  "status": "present"
+ },
+ "SyanChen7/dancing-notes": {
+  "commit": "f74c0eb98bd7de482f00569bdc0daae14c4753db",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/SyanChen7__dancing-notes",
+  "status": "present"
+ },
+ "Tejashmakwana/motionmaxxing": {
+  "commit": "8c8ec0f2a6f6c9a0da15cd24f7b1298ab298368c",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Tejashmakwana__motionmaxxing",
+  "status": "present"
+ },
+ "Teseife/diffusion-studio-codex": {
+  "commit": "ceae104e9da696c319cd04bf7f9492bd59bd748f",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Teseife__diffusion-studio-codex",
+  "status": "present"
+ },
+ "TheMarco/claude-music-video": {
+  "commit": "6407682a68ea242e5fb311bd800c32d6e64e7f31",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/TheMarco__claude-music-video",
+  "status": "present"
+ },
+ "TheNoumanDev/zero-dollar-studio": {
+  "commit": "b4560b7d32731e094c2d56c136302e897cf40f96",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/TheNoumanDev__zero-dollar-studio",
+  "status": "present"
+ },
+ "TryWorld2026/paper-algorithm": {
+  "commit": "1086213964ea417b49c660cb0a6497e9a53af18f",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/TryWorld2026__paper-algorithm",
+  "status": "present"
+ },
+ "UgurKeskekci/claude-video-kit": {
+  "commit": "5dd7f27c303fcb8fd3a25669c6482d8f2c067a16",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/UgurKeskekci__claude-video-kit",
+  "status": "present"
+ },
+ "Upload-Post/avatar-mix": {
+  "commit": "01f91ad5b0e1e16b727f72aa8480b0373828b44b",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/Upload-Post__avatar-mix",
+  "status": "present"
+ },
+ "VasiniDevi/motion-skills": {
+  "commit": "7e1728678cd9ea136603b78ad2685b70781af1e2",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/VasiniDevi__motion-skills",
+  "status": "present"
+ },
+ "WhiteTowerAI/cut-as-code": {
+  "commit": "a96c13e6eaa72e6882e78df08ee4c04fa7be3bc4",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/WhiteTowerAI__cut-as-code",
+  "status": "present"
+ },
+ "Win-Hao/music-mv": {
+  "commit": "0088b1422f7f82cdf51b456436a6313127a26d6b",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/Win-Hao__music-mv",
+  "status": "present"
+ },
+ "Xiangyu-CAS/rea-capcut": {
+  "commit": "7ba4c708657717168928b7c815274517b951366e",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/Xiangyu-CAS__rea-capcut",
+  "status": "present"
+ },
+ "YIAN6557/eian-riso-broll": {
+  "commit": "e782ad7051f5fce1ca371523c144f4cb78ab5c40",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/YIAN6557_eian-riso-broll",
+  "status": "preinstalled"
+ },
+ "YahyaLendani/motionbrief-claude-skills": {
+  "commit": "ed65700401709d8e00b522dd6473692d36449d15",
+  "grade": "caution",
+  "kind": "promo",
+  "path": "catalog/_caution/YahyaLendani__motionbrief-claude-skills",
+  "status": "present"
+ },
+ "YeJe-cpu/SeeCut": {
+  "commit": "b05d7ed27404a064060e0d370402f562b0c0c02e",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/YeJe-cpu__SeeCut",
+  "status": "present"
+ },
+ "Yuuhann1999/agent-storyboard": {
+  "commit": "a640a3b4d91d278253083833ad0cfa277f3fd84f",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/Yuuhann1999__agent-storyboard",
+  "status": "present"
+ },
+ "ZLHad/OpenVideoHarness": {
+  "commit": "def5a5027964b5337600f046ea5c6e8b2f68e936",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/ZLHad__OpenVideoHarness",
+  "status": "present"
+ },
+ "Zane-0x5a/remotion-director": {
+  "commit": "ce15331c9a07a36b7850a65c421d13be48e12a4c",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/Zane-0x5a__remotion-director",
+  "status": "present"
+ },
+ "ZiadAbdelkarim/beat-synced-edit": {
+  "commit": "48c09c92ee69c2d89b7e44b146bbd7b9c26fff08",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/ZiadAbdelkarim__beat-synced-edit",
+  "status": "present"
+ },
+ "aaksa/facecammaxxing": {
+  "commit": "a9976a70b02c8b60bbb7ebf5e055271b79b12db4",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/aaksa__facecammaxxing",
+  "status": "present"
+ },
+ "aaronyi97/image-story-video-wizard": {
+  "commit": "6c6979fd95698f1c784acf89fe5fcc78ca8a56de",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/aaronyi97__image-story-video-wizard",
+  "status": "present"
+ },
+ "abhinavshrivastava950/Montara": {
+  "commit": "ad84cbde4cd7201dbe0c38abb345a98610986077",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/abhinavshrivastava950__Montara",
+  "status": "present"
+ },
+ "acelera-agency/html-animation": {
+  "commit": "8b888794bbda1c2f0542bc332ab7e41877ea9e70",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/acelera-agency_html-animation",
+  "status": "preinstalled"
+ },
+ "actionow-ai/vvv": {
+  "commit": "df9bb12f3d5f7add20959860de18e18c2a5c56f5",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/actionow-ai__vvv",
+  "status": "present"
+ },
+ "adithya-s-k/manim_skill": {
+  "commit": "cef045011722d285692e3381d12d4d637da56e18",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/adithya-s-k__manim_skill",
+  "status": "present"
+ },
+ "adityaarsharma/youtube-marketing-skills": {
+  "commit": "e9136cb39379a82801ee5ae542ff53a1d1109bd2",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/adityaarsharma__youtube-marketing-skills",
+  "status": "present"
+ },
+ "adriiita/vertical-video-editing-skill": {
+  "commit": "c620fa0b8e98d53edbf9d005a9fb4ca7e333e2e8",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/adriiita__vertical-video-editing-skill",
+  "status": "present"
+ },
+ "adunext/adu-motion-video": {
+  "commit": "4a52ae2cff542cfb0bfcf6e93e5120c55d0110cf",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/adunext__adu-motion-video",
+  "status": "present"
+ },
+ "ahmdd4vd/MotionCraft": {
+  "commit": "8f4871543399c1981c247b734d9a123e6a6feb7a",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/ahmdd4vd__MotionCraft",
+  "status": "present"
+ },
+ "aijiduonadegou/Paper-Cut": {
+  "commit": "4b77204bcd609156cd10037bf82d615ccc100abd",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/aijiduonadegou__Paper-Cut",
+  "status": "present"
+ },
+ "alexgreensh/anidoodle": {
+  "commit": "9c20e77467be393e54c7193611eeec2f7bfb8cc7",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/alexgreensh_anidoodle",
+  "status": "preinstalled"
+ },
+ "aliangSSS/aliang-knowledge-video": {
+  "commit": "1687e5e87539b98a25289d76e1f935ea48787929",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/aliangSSS__aliang-knowledge-video",
+  "status": "present"
+ },
+ "alisadiq-ai/favstash-ai-video-editing-skills": {
+  "commit": "b6901b21e1ef690f3443556718700d60b38f5c19",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/alisadiq-ai__favstash-ai-video-editing-skills",
+  "status": "present"
+ },
+ "argus-metis/hermes-video-editing": {
+  "commit": "5974bc93bdd957a185c10fb0173539a11f5bb10e",
+  "grade": "caution",
+  "kind": "general",
+  "path": "catalog/_caution/argus-metis__hermes-video-editing",
+  "status": "present"
+ },
+ "artemnovitckii/claude-animation-skills": {
+  "commit": "5dbea55c23aa6a5c93dc3cfb5583840513b56b94",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/artemnovitckii__claude-animation-skills",
+  "status": "present"
+ },
+ "artemnovitckii/claude-editing-skills": {
+  "commit": "beff6b868a8c1bdfad8661bd8a298497e75568a3",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/artemnovitckii__claude-editing-skills",
+  "status": "present"
+ },
+ "arthurkatcher/explainer-video": {
+  "commit": "833c20e18f212fbda22fd9738524d38e70bf76d3",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/arthurkatcher__explainer-video",
+  "status": "present"
+ },
+ "autoip/dreamfab": {
+  "commit": "c1e4e858e3a8bafd098f656073bf9f595099f591",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/autoip__dreamfab",
+  "status": "present"
+ },
+ "awesome-skills/manim-skill": {
+  "commit": "f8479fa475aace157f12a161519e4bb497a35fbf",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/awesome-skills_manim-skill",
+  "status": "preinstalled"
+ },
+ "axtonliu/video-illustrator": {
+  "commit": "f02ecf4d0627df01432cb25cb9ef1807061a8342",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/axtonliu__video-illustrator",
+  "status": "present"
+ },
+ "ayushozha/AdobePremiereProMCP": {
+  "commit": "36574e4920d56ae71efeb055ba8e2af827b2106c",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/ayushozha__AdobePremiereProMCP",
+  "status": "present"
+ },
+ "bangtutorial/bang-motion": {
+  "commit": "c1aa65e921c970d858705fcb4a53a8294d1a4131",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/bangtutorial__bang-motion",
+  "status": "present"
+ },
+ "bbylw/hyperframes-cn": {
+  "commit": "10009e5f96d58591a5e5b83930dd5a7ad3508fd8",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/bbylw__hyperframes-cn",
+  "status": "present"
+ },
+ "beatra-ai/talking-avatar-video-skill": {
+  "commit": "5d65df6ca3a201c4094138e9a6d88043f1edf130",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/beatra-ai__talking-avatar-video-skill",
+  "status": "present"
+ },
+ "beatra-ai/viral-video-remake-skill": {
+  "commit": "6980d99f261749d903ecc743a6653c736873d45a",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/beatra-ai__viral-video-remake-skill",
+  "status": "present"
+ },
+ "beriki770-ship-it/code-animations": {
+  "commit": "46accf66e59975633250aa115cb30e8ccb3d7d8c",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/beriki770-ship-it__code-animations",
+  "status": "present"
+ },
+ "bestagentkits/motion-video-skill": {
+  "commit": "a73702b893a3a5462804b5b844c6080e76f69275",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/bestagentkits__motion-video-skill",
+  "status": "present"
+ },
+ "bishpls/animation-pipeline": {
+  "commit": "f6ac2295206b7d7278f0a17469119466c199fd71",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/bishpls__animation-pipeline",
+  "status": "present"
+ },
+ "blixvip/easyedit": {
+  "commit": "b0462b776b5ccd1a2225f35e09ffab2396448a0e",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/blixvip__easyedit",
+  "status": "present"
+ },
+ "brookejlacey/boring-tools": {
+  "commit": "fa7750452816f9d9cc66f5cda31d6d15e51de3b0",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/brookejlacey__boring-tools",
+  "status": "present"
+ },
+ "buildwithhanif/claude-animation-skill": {
+  "commit": "4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/buildwithhanif__claude-animation-skill",
+  "status": "present"
+ },
+ "calesthio/OpenMontage": {
+  "commit": "d21f5d4eaa08422b09c7091757a05affcbabb35b",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/calesthio__OpenMontage",
+  "status": "present"
+ },
+ "cartesiancs/cartcut": {
+  "commit": "c54034824586a0c72e21d91d3395c93b62ca9e6c",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/cartesiancs__cartcut",
+  "status": "present"
+ },
+ "cblain100-prog/motion-design-claude-code": {
+  "commit": "a89fc5494f509f44bd117bacb7aafc6eed3a2953",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/cblain100-prog__motion-design-claude-code",
+  "status": "present"
+ },
+ "cclank/lanshu-create-ai-presenter-video": {
+  "commit": "762d3ee42623b75a4ec63ad6aa61ace69d78ce6e",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/cclank__lanshu-create-ai-presenter-video",
+  "status": "present"
+ },
+ "cclank/lanshu-html2video-skill": {
+  "commit": "a19000c9c5d7a40819149578e11c851d13ecf7e3",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/cclank__lanshu-html2video-skill",
+  "status": "present"
+ },
+ "centraltowerlabs/diagram-tour": {
+  "commit": "30e7deb9de03cf35f35720947d0ce5abcc9102a9",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/centraltowerlabs__diagram-tour",
+  "status": "present"
+ },
+ "chacha95/demo-video-creator": {
+  "commit": "7947a8b4ee9b18c056945b16911bd229d9606251",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/chacha95__demo-video-creator",
+  "status": "present"
+ },
+ "charlie947/motion-graphics-skills": {
+  "commit": "229022ebca76972e119e36ada23a1648d51665ab",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/charlie947__motion-graphics-skills",
+  "status": "present"
+ },
+ "chenjun198711/book-video-generator": {
+  "commit": "b340b5d663a955de9e58c0dc19f3a76b6962d872",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/chenjun198711__book-video-generator",
+  "status": "present"
+ },
+ "chenmisss/laoxu-video-script": {
+  "commit": "b24ed211c50b9c5151d84ed0422bc83c8fcaae07",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/chenmisss__laoxu-video-script",
+  "status": "present"
+ },
+ "chenqianshinian/music-mv-studio": {
+  "commit": "b4286d03f02250519ae58d37d0688bc80a00a8e8",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/chenqianshinian__music-mv-studio",
+  "status": "present"
+ },
+ "chenyuxiaojin/cyxj-hyperframes": {
+  "commit": "6a62881bb5ca74e79742ab9ba87dbb47c3f68d85",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/chenyuxiaojin__cyxj-hyperframes",
+  "status": "present"
+ },
+ "chenyuxiaojin/cyxj-remotion-starter": {
+  "commit": "58f1840545b0ea7400b905e6b3cb4953d80b19e7",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/chenyuxiaojin__cyxj-remotion-starter",
+  "status": "present"
+ },
+ "chuspeeism/dashi-animationstyle": {
+  "commit": "aa620f3b859aa5d191b783b2eb0fb59263731c76",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/chuspeeism__dashi-animationstyle",
+  "status": "present"
+ },
+ "cocolayuan/videoclip-AI-skill": {
+  "commit": "e1d5e11e0b5de3a36cf69c4bb61dff8814cc72ea",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/cocolayuan__videoclip-AI-skill",
+  "status": "present"
+ },
+ "coding-ax/docvideoer": {
+  "commit": "168a44244986f18d3e054601c934dc22d2367fa4",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/coding-ax__docvideoer",
+  "status": "present"
+ },
+ "crawfordxx/paper-cut-video-skill": {
+  "commit": "0ff209fd72648d6eb1b2315308c19d50b74c74f9",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/crawfordxx__paper-cut-video-skill",
+  "status": "present"
+ },
+ "crawfordxx/xiaoma-studio": {
+  "commit": "2907bd6e71daa229729be319d7c8c025a6e35163",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/crawfordxx__xiaoma-studio",
+  "status": "present"
+ },
+ "crimeacs/product-demo-director": {
+  "commit": "8de3b3b8d8f55bec01b0d57bbc2fd0ed9b703bf6",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/crimeacs__product-demo-director",
+  "status": "present"
+ },
+ "cymcymcymcym/notes-to-video": {
+  "commit": "70dc1d1c4dd23b5e8ed210ff559b90063a1dddaa",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/cymcymcymcym__notes-to-video",
+  "status": "present"
+ },
+ "d4niel-fr/shdw-video-editor": {
+  "commit": "e77da75a9d151ad12204e08bcea4c717146c53d8",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/d4niel-fr__shdw-video-editor",
+  "status": "present"
+ },
+ "darrenli6/JJKoubo": {
+  "commit": "139541d6aeead38cb3d84e90bbed9defbf0afe90",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/darrenli6__JJKoubo",
+  "status": "present"
+ },
+ "dauletbekalim/motion-ui-videos": {
+  "commit": "1fca65f97425c6e0a1e5add745b8149d21f99234",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/dauletbekalim__motion-ui-videos",
+  "status": "present"
+ },
+ "davidbfrogman/davecto-cutroom": {
+  "commit": "76dc1c3e0c68bf55c71169eb3b7511e91917db91",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/davidbfrogman__davecto-cutroom",
+  "status": "present"
+ },
+ "davidcervinka/vibe-editing": {
+  "commit": "8faca774e0af076e180a2f60b63a64ec1d2a3fab",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/davidcervinka__vibe-editing",
+  "status": "present"
+ },
+ "deenukhan/stick-figure-shorts": {
+  "commit": "82f0521b72553a602123e1869511215558ad9527",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/deenukhan__stick-figure-shorts",
+  "status": "present"
+ },
+ "deenukhan/story-animator": {
+  "commit": "6bff528fded9753c30c56a90ac71926e5baf559f",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/deenukhan__story-animator",
+  "status": "present"
+ },
+ "denyakortunov/family-travel-editor": {
+  "commit": "fcfd1be65f5373ba02341fd235681ce91885d199",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/denyakortunov__family-travel-editor",
+  "status": "present"
+ },
+ "derek-zhuolin/motion-skill": {
+  "commit": "2a7102b186aa896d4e75d990d67c7bfdc11c9ed5",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/derek-zhuolin__motion-skill",
+  "status": "present"
+ },
+ "derrickgong87/demo-video-creation-skill": {
+  "commit": "7c246b3f122e11ad00bf0123d9b2ef79267244dc",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/derrickgong87__demo-video-creation-skill",
+  "status": "present"
+ },
+ "dev-isaacmello/extreme-motion-design": {
+  "commit": "5ae58839564de9df71b116026f5631b2c0b364e5",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/dev-isaacmello__extreme-motion-design",
+  "status": "present"
+ },
+ "diffusionstudio/lottie": {
+  "commit": "3c72912fad543897f90045ed4d355813837927fc",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/diffusionstudio_lottie",
+  "status": "preinstalled"
+ },
+ "digitalsamba/claude-code-video-toolkit": {
+  "commit": "b0f64a953b6888de4ca3a655be0f9c81cd1eab6b",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/digitalsamba__claude-code-video-toolkit",
+  "status": "present"
+ },
+ "diko0071/remotion-video-skills": {
+  "commit": "34dbc3b5e7c0841025b11aa27574fb5d6fd866be",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/diko0071__remotion-video-skills",
+  "status": "cloned"
+ },
+ "dillydog580/animate-roblox-characters": {
+  "commit": "9f73625a84abdf40144bf769d5c72f6d9a93318e",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "catalog/motion/dillydog580__animate-roblox-characters",
+  "status": "present"
+ },
+ "dlazy-ai/ai-product-video": {
+  "commit": "55501b4f2e746f46317bfd972255897e00662dc5",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/dlazy-ai__ai-product-video",
+  "status": "cloned"
+ },
+ "doublesq97-ui/su-card-to-video": {
+  "commit": "dd8a2978024fbcdc065904918575e6b8e494feed",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/doublesq97-ui__su-card-to-video",
+  "status": "present"
+ },
+ "dy-hashiqi/VibeDS-skill": {
+  "commit": "239b09e080c977cce5af8d7c22b2d4fd5e2e92e0",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/dy-hashiqi__VibeDS-skill",
+  "status": "present"
+ },
+ "echris6/motion-video-kit": {
+  "commit": "e4b1c0004080fe6a0deb883631bad5eba1e5f339",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/echris6__motion-video-kit",
+  "status": "present"
+ },
+ "edenfunf/reelmimic": {
+  "commit": "311d835b623e1b6790d8823298dc0d5553661fe2",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/edenfunf__reelmimic",
+  "status": "present"
+ },
+ "edotheDev/claude-video-kit": {
+  "commit": "db1f96a15342a9d0252088822188a2d873cd2e48",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/edotheDev__claude-video-kit",
+  "status": "present"
+ },
+ "erduo1998-cell/erduo-broll-loop-engineering": {
+  "commit": "741583ed973f9a431fcb262396556eae7fd13f15",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/erduo1998-cell__erduo-broll-loop-engineering",
+  "status": "present"
+ },
+ "erduo1998-cell/video-script-builder": {
+  "commit": "5c0164235eda7ad7937d3056f24c9265bee9850d",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/erduo1998-cell__video-script-builder",
+  "status": "present"
+ },
+ "erduo1998-cell/vidmuse-video-creator": {
+  "commit": "d4bd16dfbd332ce247d51d11e12a949cbbb810dc",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/erduo1998-cell__vidmuse-video-creator",
+  "status": "present"
+ },
+ "eternityspring/reelbench-skills": {
+  "commit": "df39d5df9d7adc2f82acba5594579d60361a42c7",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/eternityspring__reelbench-skills",
+  "status": "present"
+ },
+ "every-app/video-skills": {
+  "commit": "01afbd2222da1eceee362b57611dd330d7d9dc82",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/every-app__video-skills",
+  "status": "present"
+ },
+ "farming-labs/product-film-skill": {
+  "commit": "d80715c246806a386313d1d14c067c27360d69b9",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/farming-labs__product-film-skill",
+  "status": "present"
+ },
+ "feicaiclub/knowledge-easy": {
+  "commit": "72b9b5bc71a460aaef7dc2fbbe55b0d1d0ca703f",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/feicaiclub__knowledge-easy",
+  "status": "present"
+ },
+ "feitangyuan/onetake": {
+  "commit": "abb6d17279cdc749e27e99aa534a062d8fd01ced",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/feitangyuan__onetake",
+  "status": "cloned"
+ },
+ "fernandokaraka/remotion-motion-graphics-skill": {
+  "commit": "1fc286924c68260b7945f1f29e474b986446b70d",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/fernandokaraka_remotion-motion-graphics-skill",
+  "status": "preinstalled"
+ },
+ "fltman/infofilm": {
+  "commit": "3b0ea1b1fa049b7672faba386a897452d4d3610c",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/fltman__infofilm",
+  "status": "present"
+ },
+ "garycaogan/pixel-diary": {
+  "commit": "a096b39a4c82167fd4cebf3a3ee1cc153941e6a2",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/garycaogan__pixel-diary",
+  "status": "present"
+ },
+ "geekjourneyx/hyperframes-motion-director": {
+  "commit": "0b66750322ccb50ae56ace5a8d361da2c1f65400",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/geekjourneyx__hyperframes-motion-director",
+  "status": "present"
+ },
+ "generalizingai/shadowcast": {
+  "commit": "1231f8fc964786d88698579c151072b620a39e42",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/generalizingai__shadowcast",
+  "status": "present"
+ },
+ "ghost1412/shorts-generator": {
+  "commit": "147e4a12c03e66403fda4b126e65008589a96ca4",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/ghost1412__shorts-generator",
+  "status": "present"
+ },
+ "gloweaseco-leo/hyperdirector": {
+  "commit": "220fa2ac428525ef1421784ff84b59db1e316cbd",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/gloweaseco-leo__hyperdirector",
+  "status": "present"
+ },
+ "gmpetrov/agent-screenplay": {
+  "commit": "a06347813d65de74d7a228d0bb353ca9e3fdbe37",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/gmpetrov__agent-screenplay",
+  "status": "present"
+ },
+ "gnipbao/minimax-h3-video-reverse-skill": {
+  "commit": "2fd1cc182606b81b69e0a9dca31c6cc7c2e973af",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/gnipbao__minimax-h3-video-reverse-skill",
+  "status": "present"
+ },
+ "gnipbao/story-to-handdrawn-video": {
+  "commit": "198aefa9b298af3a20d3bd757c93433623d38ccd",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/gnipbao__story-to-handdrawn-video",
+  "status": "present"
+ },
+ "gorkem-bwl/onboarding-video-generator": {
+  "commit": "a508ea84a1f0783f00e978c596495981e2016200",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/gorkem-bwl__onboarding-video-generator",
+  "status": "present"
+ },
+ "gquthier/autonomous-sop-video": {
+  "commit": "19a7f7f7a2d91554968c5c03a97c71c4a69b15bc",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/gquthier__autonomous-sop-video",
+  "status": "present"
+ },
+ "griffinwooldridge/talking-head-editor": {
+  "commit": "9382aa31bd66a5c6b6a06a761b748cc513149647",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/griffinwooldridge__talking-head-editor",
+  "status": "present"
+ },
+ "hacimertgokhan/geomotion": {
+  "commit": "88c1c1c4f8946309f961ef6e7983171da7a95d07",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/hacimertgokhan_geomotion",
+  "status": "preinstalled"
+ },
+ "hahadu4520/newcut-video-clipping-skill": {
+  "commit": "1f7d1517c69be33e34915b3c94a03ac6d9d3a487",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/hahadu4520__newcut-video-clipping-skill",
+  "status": "present"
+ },
+ "hahadu4520/vlog-cut": {
+  "commit": "7a6d239f789e36622feec5ed7bca49f8acbea85e",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/hahadu4520__vlog-cut",
+  "status": "present"
+ },
+ "haiderfarooq3/khan-explainer": {
+  "commit": "326bf9b5332bb30a09e9d11f0ba81e30e7a0e81f",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/haiderfarooq3__khan-explainer",
+  "status": "present"
+ },
+ "haiderfarooq3/paper-reel": {
+  "commit": "9c5bc57b5e10a0cf07d3935c91c2ac30971c69b2",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/haiderfarooq3__paper-reel",
+  "status": "present"
+ },
+ "hamen/app-promo-reel": {
+  "commit": "755396761142c50b20e1102f75fb44dcfed28148",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/hamen__app-promo-reel",
+  "status": "present"
+ },
+ "hassancs91/claude-faceless-shorts-creator": {
+  "commit": "773054bebbe460de0f31dcfda5315970b1c8b4f2",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/hassancs91__claude-faceless-shorts-creator",
+  "status": "present"
+ },
+ "hassancs91/claude-youtube-editor": {
+  "commit": "a6ac742b44520fd3c6aeaf3cd754e113fa334fed",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/hassancs91__claude-youtube-editor",
+  "status": "present"
+ },
+ "haxzie/genmotion": {
+  "commit": "c8286b113dfeb500fd0277f66d5e6538d1c04f9a",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/haxzie__genmotion",
+  "status": "present"
+ },
+ "hetpatel-11/Adobe_Premiere_Pro_MCP": {
+  "commit": "b866e6486749d25b3b4922002d2b49ffbbf6a43a",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/hetpatel-11__Adobe_Premiere_Pro_MCP",
+  "status": "present"
+ },
+ "heygen-com/hyperframes": {
+  "commit": "ecf0e14387482bf7ca35c7797292d6bbb67b66d1",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/heygen-com__hyperframes",
+  "status": "present"
+ },
+ "heygen-com/skills": {
+  "commit": "1bd5e4d33a028dfed3abf504c5e3dd644fb9ea8a",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/heygen-com__skills",
+  "status": "present"
+ },
+ "hi-nikola/hand-drawn-explainer-video-nikola": {
+  "commit": "3ee5d1c01fe8d34f5162c4aace418753f85bd0d9",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/hi-nikola__hand-drawn-explainer-video-nikola",
+  "status": "present"
+ },
+ "hildlabs/openrig-studio": {
+  "commit": "18ef75d1e400a94af49b892449c7f9990bff23fa",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/hildlabs__openrig-studio",
+  "status": "present"
+ },
+ "holy-templar/static-to-video-ad": {
+  "commit": "16f288460dd51c8fdf1a7a77cb9f07a0157fa4a8",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/holy-templar__static-to-video-ad",
+  "status": "present"
+ },
+ "holy-templar/vox-animated-ad-mcp": {
+  "commit": "2e7f25379c151dcba671e545dc8b753cdde87c8b",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/holy-templar__vox-animated-ad-mcp",
+  "status": "present"
+ },
+ "howseen-ai/claude-motion-design": {
+  "commit": "3d90d349ef3fdde9b7e89de4df4a2159c9e8697f",
+  "grade": "caution",
+  "kind": "promo",
+  "path": "catalog/_caution/howseen-ai__claude-motion-design",
+  "status": "present"
+ },
+ "hraness/slopcamera": {
+  "commit": "0b228051474d7d9ac37f8a3e368d35718ad0441d",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/hraness__slopcamera",
+  "status": "present"
+ },
+ "huaxialucaicaizi/opus5.5-video-skills-": {
+  "commit": "65511630c938fde71d9793f37b804abba56147fe",
+  "grade": "caution",
+  "kind": "general",
+  "path": "catalog/_caution/huaxialucaicaizi__opus5.5-video-skills-",
+  "status": "present"
+ },
+ "hub-ki/video-generation": {
+  "commit": "a049d66ccd710f2c377e843820dc3254940b836b",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/hub-ki__video-generation",
+  "status": "present"
+ },
+ "hubeiqiao/og-video-preview": {
+  "commit": "4edc1bf30c1291c96e058f60943dcace6a82ec5d",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "catalog/motion/hubeiqiao__og-video-preview",
+  "status": "present"
+ },
+ "hypit-ai/hypit": {
+  "commit": "67c15455832cea5eed8198407c488116921f5e6a",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/hypit-ai__hypit",
+  "status": "present"
+ },
+ "i-afaqrashid/claude-animation-studio": {
+  "commit": "84498ea4a1fd860ac96cf06a0a7b4cb7bde825d8",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/i-afaqrashid__claude-animation-studio",
+  "status": "present"
+ },
+ "iart-ai/ad-video-skills": {
+  "commit": "0de0f2a1c1f42a98103fc0ec436509276428372c",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/iart-ai__ad-video-skills",
+  "status": "present"
+ },
+ "iart-ai/data-animation-skills": {
+  "commit": "8ce2709c3992490251e8a991535b1945f01c6865",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/iart-ai__data-animation-skills",
+  "status": "present"
+ },
+ "iart-ai/explainer-video-skills": {
+  "commit": "3e2d411b725d9a72939cf8e5eb81579e751373e7",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/iart-ai__explainer-video-skills",
+  "status": "present"
+ },
+ "iart-ai/kinetic-typography-skills": {
+  "commit": "fccc94bd325d824235ee9e715e65abde57b6513a",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/iart-ai_kinetic-typography-skills",
+  "status": "preinstalled"
+ },
+ "iart-ai/map-animation-skills": {
+  "commit": "390ca98bbcf2ea88a430a69c0dcbf423e43d075d",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/iart-ai__map-animation-skills",
+  "status": "present"
+ },
+ "iart-ai/motion-design-skills": {
+  "commit": "3c129f769d90a1328c209c386492333c9ac62312",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/iart-ai__motion-design-skills",
+  "status": "present"
+ },
+ "iart-ai/motion-skills": {
+  "commit": "238dfc55aac123d4649be39adfe58c43193ca349",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/iart-ai__motion-skills",
+  "status": "present"
+ },
+ "iart-ai/text-message-video-skills": {
+  "commit": "3a800e1e9b9635fa196a07b0143c80f7e9648558",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/iart-ai__text-message-video-skills",
+  "status": "present"
+ },
+ "iart-ai/tiktok-video-skills": {
+  "commit": "2a775336b5a638cbf8a61dbd785f9a1b649be016",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/iart-ai__tiktok-video-skills",
+  "status": "present"
+ },
+ "iart-ai/youtube-video-skills": {
+  "commit": "f3df381d65abe5078f5ed410bbc3ed72e7cb92bd",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/iart-ai_youtube-video-skills",
+  "status": "preinstalled"
+ },
+ "icytear-svg/podcast-to-video": {
+  "commit": "ed0a70b4414fa4a311e280c83de8a47ad781b945",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/icytear-svg__podcast-to-video",
+  "status": "present"
+ },
+ "imMamdouhaboammar/motion-graphics-skills": {
+  "commit": "76da7e7ec45a891d6df64da89e91d4c9bf8ff048",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/imMamdouhaboammar__motion-graphics-skills",
+  "status": "cloned"
+ },
+ "indieshade/video-director-workflow": {
+  "commit": "7f2c0a9e67b027f58161343d98864755840bc3bf",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/indieshade__video-director-workflow",
+  "status": "present"
+ },
+ "inematds/skill-video-plan-editor": {
+  "commit": "e2aa67537342cdb83477a3948a305fc2b9576d04",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/inematds__skill-video-plan-editor",
+  "status": "present"
+ },
+ "intelligent-iterations/ii-content-engine": {
+  "commit": "240f3609b138266f13c7df16e0e2a2676186b3da",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/intelligent-iterations__ii-content-engine",
+  "status": "present"
+ },
+ "isaachang/motion-video-workflow": {
+  "commit": "0727d29c6eb16628960f13ddbf102428e1c8f449",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/isaachang__motion-video-workflow",
+  "status": "present"
+ },
+ "isaaclins/demo-video-skill": {
+  "commit": "1b623a3f7b1ad551586886295f92ba0b7a2baab9",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/isaaclins__demo-video-skill",
+  "status": "present"
+ },
+ "isabellagreco1997/script-to-video": {
+  "commit": "8274b485571e1dfa337082a072b53d9c3a6f4896",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/isabellagreco1997__script-to-video",
+  "status": "present"
+ },
+ "jackjls/jtxvideo-skill": {
+  "commit": "6b3721130a50d25419fb2fcdb79d4bd2402a0958",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/jackjls__jtxvideo-skill",
+  "status": "present"
+ },
+ "jammaru/launch-video-craft": {
+  "commit": "fee96325c26aee06ac68d905213d137cbf714a99",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/jammaru__launch-video-craft",
+  "status": "present"
+ },
+ "jaredcassoutt/vox-editorial": {
+  "commit": "f394e925f7ccbd6df3e6b3403fcb260194bbece3",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/jaredcassoutt__vox-editorial",
+  "status": "cloned"
+ },
+ "jaxxchen003/book-video-factory": {
+  "commit": "af296f9caf3e5ac130933f53e7aa94723537d5ef",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/jaxxchen003__book-video-factory",
+  "status": "present"
+ },
+ "jhartquist/claude-remotion-kickstart": {
+  "commit": "87c00f498fe0211b7703ce8500c9a3c7452ce689",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/jhartquist__claude-remotion-kickstart",
+  "status": "present"
+ },
+ "jincheng2026/jc-remotion-skills": {
+  "commit": "a20c4ced9c4885240df4e9fce1a58b59acbd09a3",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/jincheng2026__jc-remotion-skills",
+  "status": "present"
+ },
+ "jinjin1/scenewright": {
+  "commit": "25925699a83d8c77bb2a8cd2a76654ae341a4dcd",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/jinjin1__scenewright",
+  "status": "present"
+ },
+ "jtydhr88/screenwriting-skills": {
+  "commit": "51115f18d160aa8b2ac5813e4432b6f0b425358f",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/jtydhr88__screenwriting-skills",
+  "status": "present"
+ },
+ "kakaxi12/vox-director-codex": {
+  "commit": "f54e093b0bf0ce1e8d56bc09270999909e52c4fb",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/kakaxi12__vox-director-codex",
+  "status": "present"
+ },
+ "kangarooking/director-skills": {
+  "commit": "301e6e72199f28b8ea82cd48ff06ab9ae49d0ee5",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/kangarooking__director-skills",
+  "status": "present"
+ },
+ "kangarooking/promo-creator-skills": {
+  "commit": "2d23af9597b2ae37b1e18686f5759eae0c10ac07",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/kangarooking__promo-creator-skills",
+  "status": "present"
+ },
+ "kelano86/what-if-animation": {
+  "commit": "8092fb5e825e55456d1d47fec0ebf595cb93cc0d",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/kelano86__what-if-animation",
+  "status": "present"
+ },
+ "kiki-lgtm-dot/cinematic-product-promo-skill": {
+  "commit": "ea356ff3aae50b630ff5b0488d7e2a00ab4c6bc4",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/kiki-lgtm-dot__cinematic-product-promo-skill",
+  "status": "present"
+ },
+ "killkli/minimax-h3-colab-skill": {
+  "commit": "0a0d3b9c0060c97aeb4e13b1516c83d42939a304",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/killkli__minimax-h3-colab-skill",
+  "status": "present"
+ },
+ "kingselyjoe/video-shotcraft-dsh": {
+  "commit": "fce06e582c4ba025b27a333809417331f134fe39",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/kingselyjoe__video-shotcraft-dsh",
+  "status": "present"
+ },
+ "klsoen/opus-js-animations": {
+  "commit": "be8d5792ffff563c9dc62933bbe5627ac41a89e0",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/klsoen__opus-js-animations",
+  "status": "present"
+ },
+ "kmilo93sd/agent-video-editor": {
+  "commit": "8e32c0aff64c445ef1e2b87bc04408a34d68c973",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/kmilo93sd__agent-video-editor",
+  "status": "present"
+ },
+ "krisyangdev/motionboard": {
+  "commit": "4e1b437b18cf920992c191d983e42b26654e6406",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/krisyangdev__motionboard",
+  "status": "present"
+ },
+ "krusemediallc/video-editor-agent": {
+  "commit": "bbbc1a4c55f70dfe37fe616f2f95c6586fa76cb4",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/krusemediallc__video-editor-agent",
+  "status": "present"
+ },
+ "kurbaitaev/ghost-editor": {
+  "commit": "ce172726c36293722b08eb57b5b307d4f06389e8",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/kurbaitaev__ghost-editor",
+  "status": "present"
+ },
+ "kvrancic/oneshot-video": {
+  "commit": "6cfecb288d79e89862681d67a9c40d18eac320b0",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/kvrancic__oneshot-video",
+  "status": "present"
+ },
+ "latent-variable/deep-learning-birthday": {
+  "commit": "810cd2a22e36977cc2bcf91b6e0bd9bf0185c5d8",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/latent-variable__deep-learning-birthday",
+  "status": "present"
+ },
+ "lazypay/Archscribe": {
+  "commit": "46ea42cfc6c557ab238867c390bb18320fd36769",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/lazypay_Archscribe",
+  "status": "preinstalled"
+ },
+ "leancoderkavy/premiere-pro-mcp": {
+  "commit": "e9db69eb3707dd19944ec7955db7198d6ee63289",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/leancoderkavy__premiere-pro-mcp",
+  "status": "present"
+ },
+ "ledbetterljoshua/functional-emotions-video": {
+  "commit": "b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/ledbetterljoshua__functional-emotions-video",
+  "status": "present"
+ },
+ "lemomo-ai/lemo-opuscar": {
+  "commit": "bebbbe1aa92a3cb4bb6f83500e61b23a17d1aa00",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/lemomo-ai__lemo-opuscar",
+  "status": "present"
+ },
+ "leodavincs/kalem": {
+  "commit": "8398da01242209207d8da929dfd98dcc37bf6c7a",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/leodavincs__kalem",
+  "status": "present"
+ },
+ "leosssvip-dot/remotion-ad-video-skill": {
+  "commit": "e734c0299474132366e8270e9cffaf9a26f2c5ed",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "remotion-ad-video-skill",
+  "status": "preinstalled"
+ },
+ "liangdabiao/story-handdrawn-remotion": {
+  "commit": "fe576daeac371cf258331ca6dbfd6e37ed234024",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/liangdabiao__story-handdrawn-remotion",
+  "status": "present"
+ },
+ "liangdabiao/story-handdrawn-video": {
+  "commit": "04c2fc01f64dee7234c6197f007f7e1cb6b437e8",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/liangdabiao__story-handdrawn-video",
+  "status": "present"
+ },
+ "liangdabiao/wechat-article-remotion": {
+  "commit": "7fdba0b52abe144cdede1b3938c9fa32c38fa97b",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/liangdabiao__wechat-article-remotion",
+  "status": "present"
+ },
+ "liaojianquan9-source/ljq-broll-video-generator": {
+  "commit": "67eb473a738638102f3502d6ae217e5c3d0b47ea",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/liaojianquan9-source__ljq-broll-video-generator",
+  "status": "present"
+ },
+ "lintsinghua/paint-mv-skills": {
+  "commit": "ca8f5f75f186d590e687542b106aa73ceff9133c",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/lintsinghua__paint-mv-skills",
+  "status": "present"
+ },
+ "liuliu-66-create/ll-video-decomposer": {
+  "commit": "5e00606ce3f1708d380cc6e3e337320cc5af2c80",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/liuliu-66-create__ll-video-decomposer",
+  "status": "present"
+ },
+ "liuliu-66-create/ll-video-edit": {
+  "commit": "8ecabbf690b0d333dee0636853f672d1a5a66720",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/liuliu-66-create__ll-video-edit",
+  "status": "present"
+ },
+ "liuliu-66-create/ll-video-motion": {
+  "commit": "b58c70a4ee6bd2a0b87c7b2d3bf6c7e0d611ac06",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/liuliu-66-create_ll-video-motion",
+  "status": "preinstalled"
+ },
+ "liyue-aigc/xianxia-cinematic-video-director": {
+  "commit": "e19620041ee3aac87c17e91a8507fd01b66ff0a4",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/liyue-aigc__xianxia-cinematic-video-director",
+  "status": "present"
+ },
+ "louisedesadeleer/cut-video": {
+  "commit": "a5a87a64f381c62b8972a92132fb48015b0e50ff",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/louisedesadeleer__cut-video",
+  "status": "present"
+ },
+ "lumian2015/opus-5-5-video-templates": {
+  "commit": "79bbf5b1940341cd5e29c4c1edfbbd807af639da",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/lumian2015__opus-5-5-video-templates",
+  "status": "present"
+ },
+ "luminexlabs-io/antigravity-remotion-skill": {
+  "commit": "cb3bdc4e28806436b4259e178496ca96a130194c",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "catalog/motion/luminexlabs-io__antigravity-remotion-skill",
+  "status": "present"
+ },
+ "mad-helpers/motion-harness": {
+  "commit": "162b849f728a85ec401fab396a49c6401c31aa58",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/mad-helpers__motion-harness",
+  "status": "present"
+ },
+ "magichourhq/skills": {
+  "commit": "9f1e7df4051e2040fef76d7a0e0c5fd71ed19a79",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/magichourhq__skills",
+  "status": "present"
+ },
+ "marketcalls/story-telling": {
+  "commit": "13455c837901c3813584ab38f336e5d1f18ad8fc",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/marketcalls__story-telling",
+  "status": "present"
+ },
+ "mathruffian-dot/claude-motion-explainer-images": {
+  "commit": "b7c2cd89489d8af3c6f1d3bb891d1e340d435241",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/mathruffian-dot__claude-motion-explainer-images",
+  "status": "present"
+ },
+ "mathruffian-dot/claude-motion-explainer-video": {
+  "commit": "c9c6dda4df82ed60340dfbdfcbe8f36d09ad3626",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/mathruffian-dot__claude-motion-explainer-video",
+  "status": "present"
+ },
+ "mattivilola/brag-codex": {
+  "commit": "da5c32439c0d9e1396ffb25870d934d46f5bcabd",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/mattivilola__brag-codex",
+  "status": "present"
+ },
+ "mattypark/Motion-graphics-skill": {
+  "commit": "5db5896235cb2894dab70a94e89d004dfc28d444",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/mattypark__Motion-graphics-skill",
+  "status": "present"
+ },
+ "mcdenil-skills/AutoMontage-Agent": {
+  "commit": "ed099caa5448937653b1bfc4f25e7610c07d00ac",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/mcdenil-skills__AutoMontage-Agent",
+  "status": "present"
+ },
+ "memex-lab/product-launch-video-skill": {
+  "commit": "9de027d1947ce8f8b60ccf70aa89e482bf80ecea",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/memex-lab__product-launch-video-skill",
+  "status": "present"
+ },
+ "miguelcotrinaia/claude-skills-shorts-animados": {
+  "commit": "7437f5cbf46e3b25ca6b9d5e340db157cb6b3c24",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/miguelcotrinaia__claude-skills-shorts-animados",
+  "status": "present"
+ },
+ "mikelix/gstack-tutorial-5-agi-race-v2": {
+  "commit": "5181fbffe527446e187ce35bd870d6052e9c8ec9",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/mikelix__gstack-tutorial-5-agi-race-v2",
+  "status": "present"
+ },
+ "mileson/chaojifeng-video-design": {
+  "commit": "33b5bd3831af0510401d3795384923b024726f11",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/mileson__chaojifeng-video-design",
+  "status": "cloned"
+ },
+ "molkex/mcp-flow-google": {
+  "commit": "20da06568f026d7366b67dd3cbf1e5cc7cdf5ddf",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/molkex__mcp-flow-google",
+  "status": "present"
+ },
+ "motalim-ai/motion-starter-kit": {
+  "commit": "4f71f89e6d90b40b7d99b1429689eda161c5f07c",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/motalim-ai__motion-starter-kit",
+  "status": "present"
+ },
+ "mrieck/demoday-claude-plugin": {
+  "commit": "fe8ef3153c8e896bc83548e0cec65cf63dea61d0",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/mrieck__demoday-claude-plugin",
+  "status": "present"
+ },
+ "mromidev/claude-blender-skills": {
+  "commit": "567116bf3514ce0e469c2cb5cb04fa974fca217a",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/mromidev__claude-blender-skills",
+  "status": "present"
+ },
+ "muayadjamal/flow-video-recorder": {
+  "commit": "09dd30f63c986922533b63ed45fae1788cee72d9",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/muayadjamal__flow-video-recorder",
+  "status": "present"
+ },
+ "naive-kun/naive-video-skill": {
+  "commit": "3e9c7c55aca2cd62f25ea8659de0b487bd616bd7",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/naive-kun__naive-video-skill",
+  "status": "present"
+ },
+ "neelnanda-io/dont-go-quiet-on-me": {
+  "commit": "1895c63eab1dae189e7c48f12d222b41f3c169ad",
+  "grade": "safe",
+  "kind": "music",
+  "path": "catalog/music/neelnanda-io__dont-go-quiet-on-me",
+  "status": "present"
+ },
+ "new-xp/ultrademo": {
+  "commit": "e7bdcfc241600b65bf6536f2c3c990a00a765b2d",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/new-xp__ultrademo",
+  "status": "present"
+ },
+ "ninestonelee/youtube-shorts-factory": {
+  "commit": "4476e9a3cd8c67bb45d351cf184e55f1fcb1d3d1",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/ninestonelee__youtube-shorts-factory",
+  "status": "present"
+ },
+ "noamdorr/saas-product-demo-video": {
+  "commit": "74f4f7150810b1bb5bf9160c4a2742c5dce69b62",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/noamdorr__saas-product-demo-video",
+  "status": "present"
+ },
+ "nolangz/pixel2motion": {
+  "commit": "e9faedb28930df0da2acf17da00c80730a78cfe8",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/nolangz_pixel2motion",
+  "status": "preinstalled"
+ },
+ "nomicsadmin/editor-video-ia": {
+  "commit": "2ed595031a599f501391ca35944400ed049f82fc",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/nomicsadmin__editor-video-ia",
+  "status": "present"
+ },
+ "norahe0304-art/30x-video": {
+  "commit": "51a606343e8af2fd0320c3d87597d0a75a6ea2dd",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/norahe0304-art__30x-video",
+  "status": "present"
+ },
+ "onuryildriim/claude-kurgu-atolyesi": {
+  "commit": "4edc6445f404c116c870b589458b2218fa0cdd20",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/onuryildriim__claude-kurgu-atolyesi",
+  "status": "present"
+ },
+ "op7418/guizang-product-video-skill": {
+  "commit": "18842e0f49a9eb2b8c00cc065ec37b314e235aaa",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/op7418__guizang-product-video-skill",
+  "status": "present"
+ },
+ "ops120/video-recap-skills-plus": {
+  "commit": "edd5c1b6d341aa30af9a4cf63a89a396631d6f18",
+  "grade": "caution",
+  "kind": "editing",
+  "path": "catalog/_caution/ops120__video-recap-skills-plus",
+  "status": "present"
+ },
+ "opus-pro/opusclip-video-tools": {
+  "commit": "d5babbdd3ed234dfcbcf9c2246e776c337994ba2",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/opus-pro__opusclip-video-tools",
+  "status": "present"
+ },
+ "ouerf-man/kinetic-editorial-skill": {
+  "commit": "11f222c61bd89703a90b5417bf86315611032517",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/ouerf-man__kinetic-editorial-skill",
+  "status": "present"
+ },
+ "oxygenframe/oxframe-sdk": {
+  "commit": "221a08b7c7ef02d5e5e912bbf78ac4ef19ea726c",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/oxygenframe__oxframe-sdk",
+  "status": "present"
+ },
+ "patraxo/ltx2-vidgen-skill": {
+  "commit": "7e8e20280d89d8864043be25075893495d851aab",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/patraxo__ltx2-vidgen-skill",
+  "status": "present"
+ },
+ "patryk-penczek/ship-video": {
+  "commit": "8b1e3e899d5d0879a0154838e9c2c0c0d11263e5",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/patryk-penczek__ship-video",
+  "status": "present"
+ },
+ "paullabs/espaco-em-codigo": {
+  "commit": "5169a7ac21fd8dc7b2811f842f89eeca80eefcbf",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/paullabs__espaco-em-codigo",
+  "status": "present"
+ },
+ "pjecuacion/script-to-video-skill": {
+  "commit": "29b47de3b2d50e17849101f3485f55aa5e53a2fb",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/pjecuacion__script-to-video-skill",
+  "status": "present"
+ },
+ "precious112/demo-director": {
+  "commit": "97a7ca9cf57a31069046f90e5714e4e2ccbd1775",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/precious112__demo-director",
+  "status": "present"
+ },
+ "puntorigen/avatar-skills": {
+  "commit": "8d0c1d0de848c3b189b99763396a688877f7ceb0",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/puntorigen__avatar-skills",
+  "status": "present"
+ },
+ "pyang5166/gbro-collage-broll": {
+  "commit": "a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "catalog/motion/pyang5166__gbro-collage-broll",
+  "status": "present"
+ },
+ "pyang5166/gbro-collage-info": {
+  "commit": "0b97a817a6b65285d8aa90431079500a29092eab",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/pyang5166__gbro-collage-info",
+  "status": "present"
+ },
+ "pycodebr/heditor": {
+  "commit": "8b8add813f8ebea40efb0bf65411504d10cd3771",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/pycodebr__heditor",
+  "status": "present"
+ },
+ "qingyunAGI/qingyun-cine-skill": {
+  "commit": "7104a5b3be6fc832e25ed4beb352556c52242573",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/qingyunAGI__qingyun-cine-skill",
+  "status": "present"
+ },
+ "rafiimanggala/paper-collage-skill": {
+  "commit": "1443c655d3b9928a8e2d2e56388fcd6de082c708",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/rafiimanggala__paper-collage-skill",
+  "status": "present"
+ },
+ "rahlquist/hermes-video-toolchain": {
+  "commit": "4df63c04ad26b9121add8690bf0b57c9e195df88",
+  "grade": "caution",
+  "kind": "editing",
+  "path": "catalog/_caution/rahlquist__hermes-video-toolchain",
+  "status": "present"
+ },
+ "reedodev/explainer-studio": {
+  "commit": "05fdbab0e0009f1d53d9cbd157ed0b2960c9f8d8",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/reedodev__explainer-studio",
+  "status": "present"
+ },
+ "remotion-dev/skills": {
+  "commit": "039e8a2fc78b67efc228d5645367838b85818a1c",
+  "grade": "safe",
+  "kind": "general",
+  "path": "remotion-official-skills",
+  "status": "preinstalled"
+ },
+ "resemble-ai/remotion-resemble-skill": {
+  "commit": "d50553c1d04e87aa6c93e008658b1ef8bb884483",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/resemble-ai__remotion-resemble-skill",
+  "status": "present"
+ },
+ "revfactory/showreel": {
+  "commit": "ae09a4a757b6e1d22c4193a09c70c88bda5b3e92",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/revfactory__showreel",
+  "status": "present"
+ },
+ "riffkit/skill": {
+  "commit": "81b922385780316a6708fd56d91776f4112f06c6",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/riffkit__skill",
+  "status": "present"
+ },
+ "rock3r/cav": {
+  "commit": "ed2b847450160c0e2332619c30128326c3141aa5",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "catalog/motion/rock3r__cav",
+  "status": "present"
+ },
+ "rtadewald/agent-video-editor": {
+  "commit": "df9d27538dbb286de8c14ddf49a279f401fc3672",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/rtadewald__agent-video-editor",
+  "status": "present"
+ },
+ "runesleo/claude-video-kit": {
+  "commit": "4ffccaca68793f7e45ef762c2384f05b341920d2",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/runesleo__claude-video-kit",
+  "status": "present"
+ },
+ "samuelstroschein/opus-video-generator": {
+  "commit": "aa3623fc9c28adde30db78de02848f4e4b8ab011",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/samuelstroschein__opus-video-generator",
+  "status": "present"
+ },
+ "sanskarprajapati/parallax-doc": {
+  "commit": "6580f0a8e031ca88fb75a805bc52ef15c7bd89f4",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/sanskarprajapati__parallax-doc",
+  "status": "present"
+ },
+ "santmun/video-vox": {
+  "commit": "11193d8a031dfffc38252206f1d9191bc929d058",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/santmun__video-vox",
+  "status": "present"
+ },
+ "sevenevesai/riso-windowseat": {
+  "commit": "765630967e495c3fce8a5e3ce2175bb8069c79da",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/sevenevesai__riso-windowseat",
+  "status": "present"
+ },
+ "shaderera/shaderera": {
+  "commit": "b0d930f2cf69b36a0519ace13d589cc9d98b35a2",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/shaderera__shaderera",
+  "status": "present"
+ },
+ "sharon-laicc/viral-video-decomposer": {
+  "commit": "34093598d48bda6492f687c5eae3472b782d0637",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/sharon-laicc__viral-video-decomposer",
+  "status": "present"
+ },
+ "shuyicc/MathLens": {
+  "commit": "d3a73a0ba3ddff05a8d6f9cf19db3bf208dc495e",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/shuyicc__MathLens",
+  "status": "present"
+ },
+ "siegerts/skill-canvas-video": {
+  "commit": "6419a14d9fddb5003c66e0567d927ad57f1e4f06",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/siegerts__skill-canvas-video",
+  "status": "present"
+ },
+ "skailabinfo/claude-video-harness": {
+  "commit": "c2686da122cd7755fe4f829f077e5cdcb67369cd",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/skailabinfo__claude-video-harness",
+  "status": "present"
+ },
+ "smit-vanani/claude-promo-video": {
+  "commit": "4f175c71619eb456fa449cf1a7e26c953c79f8e7",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/smit-vanani__claude-promo-video",
+  "status": "present"
+ },
+ "smwbev/framewright": {
+  "commit": "7d3245abb94c745b8ce7fc06c4ea62ba295c6f12",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/smwbev__framewright",
+  "status": "present"
+ },
+ "ssrajadh/paperview": {
+  "commit": "fe91f8bc3cc917e35a4a330af33518b0d1cc28e7",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/ssrajadh__paperview",
+  "status": "present"
+ },
+ "sub-level/marketing-videos": {
+  "commit": "696073f596079c137cb8dffa00c4bb56dc508308",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/sub-level__marketing-videos",
+  "status": "present"
+ },
+ "sudadom/arabic-motion-graphics-skill": {
+  "commit": "c437efea1daf9b1fce2b86f92a4098f2fd9df4bc",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/sudadom_arabic-motion-graphics-skill",
+  "status": "preinstalled"
+ },
+ "sukai213/bilibili-ai-video": {
+  "commit": "9f58adc91f5feeb85eb29fa581973bdc528059f8",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/sukai213__bilibili-ai-video",
+  "status": "present"
+ },
+ "suntay44/motionable": {
+  "commit": "2836d511d8629700dbda3ef1fe3ca7f151350cfc",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/suntay44__motionable",
+  "status": "present"
+ },
+ "sunxiayi/make-blender-education-video-skill": {
+  "commit": "8fcc2095d0b55a9fef06d920457a9fa32a4cf568",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/sunxiayi__make-blender-education-video-skill",
+  "status": "present"
+ },
+ "surajshetty3416/demo-video-skill": {
+  "commit": "ebcaa98528997b3f75502c08df8e393a1eec5806",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/surajshetty3416__demo-video-skill",
+  "status": "present"
+ },
+ "syklayou-glitch/video-shotcraft": {
+  "commit": "2b87b812ad5c7a23c4a8afa885b79533cbee88f5",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/syklayou-glitch__video-shotcraft",
+  "status": "present"
+ },
+ "talsiach/take-one": {
+  "commit": "830621cce11127a30120d7878570eb8acaaa5bad",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/talsiach__take-one",
+  "status": "present"
+ },
+ "taylorzhou16/video-gen": {
+  "commit": "4c42f31023187d2256e3898135336dc4d3ab7936",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/taylorzhou16__video-gen",
+  "status": "present"
+ },
+ "threeaus/creator-style-kit": {
+  "commit": "6aeb1ba22913dbc75b3dea0f9e131cfa78422504",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/threeaus__creator-style-kit",
+  "status": "present"
+ },
+ "threerocks/sweety-statechart-video": {
+  "commit": "56ad6c2deda32d9835970cbc03ad7910a5cbb2eb",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/threerocks__sweety-statechart-video",
+  "status": "present"
+ },
+ "timscheuerai/launch-video-kit": {
+  "commit": "7e2629c900b17fb7203976e7cb6cf3b2c92b4e9b",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/timscheuerai__launch-video-kit",
+  "status": "present"
+ },
+ "tmakersas/revid-skills": {
+  "commit": "745cbfcdd419a7ed5217fd2a4cf8b3fdbefa5488",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/tmakersas__revid-skills",
+  "status": "present"
+ },
+ "tmoody1973/pasteup": {
+  "commit": "1e4bd868d4f1c4af9abedc408e4f559e447aa206",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/tmoody1973__pasteup",
+  "status": "present"
+ },
+ "toufuim/personal-ip-brand-intro-skill": {
+  "commit": "bd6497b3639f6051c54844483d0af440d14f6310",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/toufuim_personal-ip-brand-intro-skill",
+  "status": "preinstalled"
+ },
+ "trunghaiy/appshot": {
+  "commit": "4c3853ff81383604485d7d6e5702d7da586e4d4f",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/trunghaiy__appshot",
+  "status": "present"
+ },
+ "tugrawork-creator/saas-motion-kit": {
+  "commit": "bc7a414d6b66ceb09dfaa511e6237f382571bc84",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/tugrawork-creator__saas-motion-kit",
+  "status": "present"
+ },
+ "tuzhechen2005/opus-video-skills": {
+  "commit": "59744a69c7b916cfbe4c4ec84006b0c2f5e2fde1",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/tuzhechen2005__opus-video-skills",
+  "status": "present"
+ },
+ "unclejobs-ai/motion-video-skill": {
+  "commit": "5fe3cca881eb1d5e397d415c7862cee73ee473c7",
+  "grade": "safe",
+  "kind": "story",
+  "path": "catalog/story/unclejobs-ai__motion-video-skill",
+  "status": "present"
+ },
+ "undsky/doudou-remotion-whiteboard-skill": {
+  "commit": "d41f61c889c315b2a590fee61db3a62cf003adc9",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/undsky__doudou-remotion-whiteboard-skill",
+  "status": "present"
+ },
+ "vakovalskii/nd-video-studio": {
+  "commit": "6243cd7cd7b3a9e32efe2c847b0d113687303c35",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/vakovalskii__nd-video-studio",
+  "status": "present"
+ },
+ "vawe-hq/vawe": {
+  "commit": "b7a8eeb399e6ca592658488ec2f0cd27299d830d",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/vawe-hq__vawe",
+  "status": "present"
+ },
+ "vibe-motion/remotion-code-motion-explainer": {
+  "commit": "d93c64393ae4c2a5485a3f8ddf4413c1e6fbe994",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/vibe-motion__remotion-code-motion-explainer",
+  "status": "present"
+ },
+ "vibe-motion/remotion-starter": {
+  "commit": "6a521397cb2470466d52a9ba4106e227bfee170e",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/vibe-motion__remotion-starter",
+  "status": "present"
+ },
+ "vibe-motion/skills": {
+  "commit": "4c86c0d016a3ba22ee673428a494f3c44f84111f",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/vibe-motion__skills",
+  "status": "present"
+ },
+ "video-db/skills": {
+  "commit": "f985577fba97705ed937cc707c3a67e35f23faf5",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/video-db__skills",
+  "status": "present"
+ },
+ "vincentsch/explainroo": {
+  "commit": "e95232c8d535ed2aa390e7b1caee0d1326dd9e83",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/vincentsch__explainroo",
+  "status": "present"
+ },
+ "vincentventalon/claude-code-video-editing-skill": {
+  "commit": "335097661b58255d6bf75923ded8391e764515c7",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/vincentventalon__claude-code-video-editing-skill",
+  "status": "present"
+ },
+ "welingtondesosa/video-motion": {
+  "commit": "2d3c2cdb9fda8d7de78d9737e475057f356d7f2f",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/welingtondesosa__video-motion",
+  "status": "present"
+ },
+ "wendymardigian-prog/Editor-IA-Pro": {
+  "commit": "1a6c21ab0239afb2d3eebc5fc4389c98e3f96e74",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/wendymardigian-prog__Editor-IA-Pro",
+  "status": "present"
+ },
+ "wocha-xiaoli/video-shot-analysis-feishu": {
+  "commit": "943f960300111758023b2da2b6802e68642ce9a0",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/wocha-xiaoli__video-shot-analysis-feishu",
+  "status": "present"
+ },
+ "wshuyi/remotion-video-skill": {
+  "commit": "d16ebd9ca330d636cf82bfd33d48ae12df74fadd",
+  "grade": "caution",
+  "kind": "explainer",
+  "path": "catalog/_caution/wshuyi__remotion-video-skill",
+  "status": "present"
+ },
+ "ww-w-ai/super-video-agent": {
+  "commit": "117f85fed4d8562b3c01a7bde16cf59c52e9d494",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/ww-w-ai__super-video-agent",
+  "status": "present"
+ },
+ "wyuzhi/qisi-video-remix": {
+  "commit": "91138b08e3d25dacaea75770e9722767c39d0f2b",
+  "grade": "safe",
+  "kind": "craft",
+  "path": "catalog/craft/wyuzhi__qisi-video-remix",
+  "status": "present"
+ },
+ "xdis/opus-video-studio": {
+  "commit": "a66c16085bda1c201f0f6457986f8bada4b0dec0",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/xdis__opus-video-studio",
+  "status": "present"
+ },
+ "xinyiqin/X2V-AI-Images-Videos-skill": {
+  "commit": "77e3493e7c8a98fe2c875a9d187b030acc4725fc",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/xinyiqin__X2V-AI-Images-Videos-skill",
+  "status": "present"
+ },
+ "xsourabhsharma/remotion-marketing-video-skill": {
+  "commit": "a7f01a8ffdab4c02f54a8a1649f1f40d32efd529",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/xsourabhsharma__remotion-marketing-video-skill",
+  "status": "present"
+ },
+ "y-wi/horizon-montage-generic": {
+  "commit": "8b644a2bdfc210077442a367e963331542b86969",
+  "grade": "safe",
+  "kind": "promo",
+  "path": "catalog/promo/y-wi__horizon-montage-generic",
+  "status": "present"
+ },
+ "yammaku/typewriter-video": {
+  "commit": "840b118318b0faa1b7dc82cca35ef67d790c0ee7",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/yammaku__typewriter-video",
+  "status": "present"
+ },
+ "yerinsabraham/video-edit-skill": {
+  "commit": "fe3b1981a99dac66b71f40823c5f3e8b856cbdcd",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/yerinsabraham__video-edit-skill",
+  "status": "present"
+ },
+ "ymybxx/SoloMCN": {
+  "commit": "444fd420a6690a9bc21f95c76b78db5209f8c6e6",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/ymybxx__SoloMCN",
+  "status": "present"
+ },
+ "ythx-101/live-panel-skill": {
+  "commit": "439c9addce7e7ac2b4e384aa847a351926c8f945",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/ythx-101_live-panel-skill",
+  "status": "preinstalled"
+ },
+ "yuwenbin121/book-video-production-skill": {
+  "commit": "c36b50827676096021103d95c5323a91937b7620",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/yuwenbin121__book-video-production-skill",
+  "status": "present"
+ },
+ "zenstory-ai/video-recap-skills": {
+  "commit": "bbb37bd686175fe4980fb8a90f6c3bdedc119f60",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/zenstory-ai__video-recap-skills",
+  "status": "present"
+ },
+ "zhenwusw/orca-motion-skill": {
+  "commit": "c88a9f8fb2ac1984a3ca2d74168110b6dc853d51",
+  "grade": "safe",
+  "kind": "motion",
+  "path": "motion-graphics/zhenwusw_orca-motion-skill",
+  "status": "preinstalled"
+ },
+ "zhouyuechuan2025-ui/ai-self-media-video-packaging-skill": {
+  "commit": "cfbb87843c746ceee18e8ae7c855ba536a6f32f2",
+  "grade": "safe",
+  "kind": "general",
+  "path": "catalog/general/zhouyuechuan2025-ui__ai-self-media-video-packaging-skill",
+  "status": "present"
+ },
+ "zlong6943-commits/football-prediction-avatar-video": {
+  "commit": "65f67faf8276d48490099aaa19e1176ca9f353d1",
+  "grade": "safe",
+  "kind": "avatar",
+  "path": "catalog/avatar/zlong6943-commits__football-prediction-avatar-video",
+  "status": "present"
+ },
+ "znyupup/ai-video-editing-skill": {
+  "commit": "b6429ab550a64c595dc68d42c47cf2b489a50619",
+  "grade": "safe",
+  "kind": "editing",
+  "path": "catalog/editing/znyupup__ai-video-editing-skill",
+  "status": "present"
+ },
+ "znyupup/knowledge-explainer-skill": {
+  "commit": "6ecae15fc8bbb589196c32ff3b726fc3e1764eac",
+  "grade": "safe",
+  "kind": "explainer",
+  "path": "catalog/explainer/znyupup__knowledge-explainer-skill",
+  "status": "present"
+ },
+ "zoglmk/codex-video-pipeline": {
+  "commit": "1734654740f0fe789f70753b486af4fb4b8afc83",
+  "grade": "safe",
+  "kind": "shorts",
+  "path": "catalog/shorts/zoglmk__codex-video-pipeline",
+  "status": "present"
+ },
+ "zz41354899/mografy": {
+  "commit": "1f8000f790b15dbf82545c0df5f6fb42435d051b",
+  "grade": "caution",
+  "kind": "motion",
+  "path": "catalog/_caution/zz41354899__mografy",
+  "status": "present"
+ }
+}

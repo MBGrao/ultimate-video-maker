@@ -1,0 +1,46 @@
+# OS / editor cruft
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+**/.venv/
+.uv-cache/
+
+# Local tooling / machine config
+.playwright-mcp/
+.agents/
+skills-lock.json
+.claude/
+
+# HyperFrames render artifacts + heavy composition sources (never committed)
+**/brag-output*/
+**/renders/
+**/.thumbnails/
+**/.waveform-cache/
+
+.codesk
+
+# AI video skills secrets & deps
+ai-video-skills/config/.env.local
+ai-video-skills/**/.env.local
+ai-video-skills/**/node_modules/
+
+# API keys (never commit)
+.env
+.env.*
+!.env.example
+
+# Showcase media (videos, voices, music, images) lives on the media server, not in git.
+# See MEDIA.md; restore with scripts/fetch-media.sh (paths + SHA-256 in media-manifest.tsv).
+ai-video-skills/projects/**/*.mp4
+ai-video-skills/projects/**/*.mp3
+ai-video-skills/projects/**/*.png
+ai-video-skills/projects/**/*.jpg
+ai-video-skills/projects/**/*.jpeg
+examples/localhostlabs-reel/*.mp4
+examples/localhostlabs-reel/*.jpg
+*.part

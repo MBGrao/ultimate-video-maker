@@ -1,0 +1,657 @@
+{
+ "n1": {
+  "role": "narrator",
+  "scene": "hook",
+  "ro": "This is not a love story.",
+  "fit": "exact",
+  "end": 2.32,
+  "first": 0.336,
+  "words": [
+   {
+    "w": "This",
+    "t0": 0.336,
+    "t1": 0.4
+   },
+   {
+    "w": "is",
+    "t0": 0.507,
+    "t1": 0.72
+   },
+   {
+    "w": "not",
+    "t0": 0.82,
+    "t1": 1.12
+   },
+   {
+    "w": "a",
+    "t0": 1.24,
+    "t1": 1.36
+   },
+   {
+    "w": "love",
+    "t0": 1.424,
+    "t1": 1.68
+   },
+   {
+    "w": "story.",
+    "t0": 1.773,
+    "t1": 2.32
+   }
+  ]
+ },
+ "n2": {
+  "role": "narrator",
+  "scene": "hook",
+  "ro": "This is how you save up to fifty percent eating out.",
+  "fit": "exact",
+  "end": 3.36,
+  "first": 0.128,
+  "words": [
+   {
+    "w": "This",
+    "t0": 0.128,
+    "t1": 0.32
+   },
+   {
+    "w": "is",
+    "t0": 0.4,
+    "t1": 0.56
+   },
+   {
+    "w": "how",
+    "t0": 0.6,
+    "t1": 0.72
+   },
+   {
+    "w": "you",
+    "t0": 0.78,
+    "t1": 0.96
+   },
+   {
+    "w": "save",
+    "t0": 1.024,
+    "t1": 1.28
+   },
+   {
+    "w": "up",
+    "t0": 1.333,
+    "t1": 1.44
+   },
+   {
+    "w": "to",
+    "t0": 1.52,
+    "t1": 1.68
+   },
+   {
+    "w": "fifty",
+    "t0": 1.72,
+    "t1": 1.92
+   },
+   {
+    "w": "percent",
+    "t0": 1.99,
+    "t1": 2.48
+   },
+   {
+    "w": "eating",
+    "t0": 2.549,
+    "t1": 2.96
+   },
+   {
+    "w": "out.",
+    "t0": 3.06,
+    "t1": 3.36
+   }
+  ]
+ },
+ "n3": {
+  "role": "narrator",
+  "scene": "room",
+  "ro": "Two strangers. One crowded restaurant.",
+  "fit": "exact",
+  "end": 3.36,
+  "first": 0.204,
+  "words": [
+   {
+    "w": "Two",
+    "t0": 0.204,
+    "t1": 0.24
+   },
+   {
+    "w": "strangers.",
+    "t0": 0.344,
+    "t1": 1.64
+   },
+   {
+    "w": "One",
+    "t0": 1.73,
+    "t1": 2
+   },
+   {
+    "w": "crowded",
+    "t0": 2.06,
+    "t1": 2.48
+   },
+   {
+    "w": "restaurant.",
+    "t0": 2.553,
+    "t1": 3.36
+   }
+  ]
+ },
+ "ay1": {
+  "role": "ayesha",
+  "scene": "ayesha",
+  "ro": "Is he… looking at me?",
+  "fit": "exact",
+  "end": 2.32,
+  "first": 0.208,
+  "words": [
+   {
+    "w": "Is",
+    "t0": 0.208,
+    "t1": 0.24
+   },
+   {
+    "w": "he…",
+    "t0": 0.373,
+    "t1": 1
+   },
+   {
+    "w": "looking",
+    "t0": 1.045,
+    "t1": 1.36
+   },
+   {
+    "w": "at",
+    "t0": 1.44,
+    "t1": 1.6
+   },
+   {
+    "w": "me?",
+    "t0": 1.68,
+    "t1": 2.32
+   }
+  ]
+ },
+ "zn1": {
+  "role": "zain",
+  "scene": "zain",
+  "ro": "Is she… thinking what I'm thinking?",
+  "fit": "exact",
+  "end": 2.88,
+  "first": 0.139,
+  "words": [
+   {
+    "w": "Is",
+    "t0": 0.139,
+    "t1": 0.16
+   },
+   {
+    "w": "she…",
+    "t0": 0.28,
+    "t1": 1.36
+   },
+   {
+    "w": "thinking",
+    "t0": 1.404,
+    "t1": 1.76
+   },
+   {
+    "w": "what",
+    "t0": 1.808,
+    "t1": 2
+   },
+   {
+    "w": "I'm",
+    "t0": 2.04,
+    "t1": 2.16
+   },
+   {
+    "w": "thinking?",
+    "t0": 2.222,
+    "t1": 2.88
+   }
+  ]
+ },
+ "ay2": {
+  "role": "ayesha",
+  "scene": "menu",
+  "ro": "The Pizza Deal for two?",
+  "fit": "exact",
+  "end": 2,
+  "first": 0.42,
+  "words": [
+   {
+    "w": "The",
+    "t0": 0.42,
+    "t1": 0.48
+   },
+   {
+    "w": "Pizza",
+    "t0": 0.56,
+    "t1": 0.96
+   },
+   {
+    "w": "Deal",
+    "t0": 1.024,
+    "t1": 1.28
+   },
+   {
+    "w": "for",
+    "t0": 1.34,
+    "t1": 1.52
+   },
+   {
+    "w": "two?",
+    "t0": 1.6,
+    "t1": 2
+   }
+  ]
+ },
+ "zn2": {
+  "role": "zain",
+  "scene": "menu",
+  "ro": "The Pizza Deal for two!",
+  "fit": "exact",
+  "end": 2,
+  "first": 0.136,
+  "words": [
+   {
+    "w": "The",
+    "t0": 0.136,
+    "t1": 0.16
+   },
+   {
+    "w": "Pizza",
+    "t0": 0.24,
+    "t1": 0.64
+   },
+   {
+    "w": "Deal",
+    "t0": 0.704,
+    "t1": 0.96
+   },
+   {
+    "w": "for",
+    "t0": 1.02,
+    "t1": 1.2
+   },
+   {
+    "w": "two!",
+    "t0": 1.36,
+    "t1": 2
+   }
+  ]
+ },
+ "n4": {
+  "role": "narrator",
+  "scene": "twist",
+  "ro": "You're not falling in love. You're splitting a pizza deal for two.",
+  "fit": "exact",
+  "end": 3.68,
+  "first": 0.068,
+  "words": [
+   {
+    "w": "You're",
+    "t0": 0.068,
+    "t1": 0.16
+   },
+   {
+    "w": "not",
+    "t0": 0.2,
+    "t1": 0.32
+   },
+   {
+    "w": "falling",
+    "t0": 0.37,
+    "t1": 0.72
+   },
+   {
+    "w": "in",
+    "t0": 0.773,
+    "t1": 0.88
+   },
+   {
+    "w": "love.",
+    "t0": 0.96,
+    "t1": 1.48
+   },
+   {
+    "w": "You're",
+    "t0": 1.53,
+    "t1": 1.76
+   },
+   {
+    "w": "splitting",
+    "t0": 1.8,
+    "t1": 2.16
+   },
+   {
+    "w": "a",
+    "t0": 2.2,
+    "t1": 2.24
+   },
+   {
+    "w": "pizza",
+    "t0": 2.307,
+    "t1": 2.64
+   },
+   {
+    "w": "deal",
+    "t0": 2.688,
+    "t1": 2.88
+   },
+   {
+    "w": "for",
+    "t0": 2.94,
+    "t1": 3.12
+   },
+   {
+    "w": "two.",
+    "t0": 3.22,
+    "t1": 3.68
+   }
+  ]
+ },
+ "n5": {
+  "role": "narrator",
+  "scene": "app",
+  "ro": "MealMates matches you with someone nearby who wants the same deal.",
+  "fit": "exact",
+  "end": 4.08,
+  "first": 0.272,
+  "words": [
+   {
+    "w": "MealMates",
+    "t0": 0.272,
+    "t1": 0.72
+   },
+   {
+    "w": "matches",
+    "t0": 0.77,
+    "t1": 1.12
+   },
+   {
+    "w": "you",
+    "t0": 1.16,
+    "t1": 1.28
+   },
+   {
+    "w": "with",
+    "t0": 1.312,
+    "t1": 1.44
+   },
+   {
+    "w": "someone",
+    "t0": 1.48,
+    "t1": 1.76
+   },
+   {
+    "w": "nearby",
+    "t0": 1.863,
+    "t1": 2.48
+   },
+   {
+    "w": "who",
+    "t0": 2.52,
+    "t1": 2.64
+   },
+   {
+    "w": "wants",
+    "t0": 2.707,
+    "t1": 3.04
+   },
+   {
+    "w": "the",
+    "t0": 3.06,
+    "t1": 3.12
+   },
+   {
+    "w": "same",
+    "t0": 3.2,
+    "t1": 3.52
+   },
+   {
+    "w": "deal.",
+    "t0": 3.616,
+    "t1": 4.08
+   }
+  ]
+ },
+ "n6": {
+  "role": "narrator",
+  "scene": "app",
+  "ro": "Verified users only. Chat, meet up, and split the bill.",
+  "fit": "exact",
+  "end": 3.92,
+  "first": 0.395,
+  "words": [
+   {
+    "w": "Verified",
+    "t0": 0.395,
+    "t1": 0.48
+   },
+   {
+    "w": "users",
+    "t0": 0.547,
+    "t1": 0.88
+   },
+   {
+    "w": "only.",
+    "t0": 0.96,
+    "t1": 1.36
+   },
+   {
+    "w": "Chat,",
+    "t0": 1.488,
+    "t1": 2.16
+   },
+   {
+    "w": "meet",
+    "t0": 2.208,
+    "t1": 2.4
+   },
+   {
+    "w": "up,",
+    "t0": 2.48,
+    "t1": 2.8
+   },
+   {
+    "w": "and",
+    "t0": 2.82,
+    "t1": 2.88
+   },
+   {
+    "w": "split",
+    "t0": 2.96,
+    "t1": 3.36
+   },
+   {
+    "w": "the",
+    "t0": 3.38,
+    "t1": 3.44
+   },
+   {
+    "w": "bill.",
+    "t0": 3.52,
+    "t1": 3.92
+   }
+  ]
+ },
+ "zn3": {
+  "role": "zain",
+  "scene": "table",
+  "ro": "So… half the fries are mine?",
+  "fit": "exact",
+  "end": 3.2,
+  "first": 0.416,
+  "words": [
+   {
+    "w": "So…",
+    "t0": 0.416,
+    "t1": 0.56
+   },
+   {
+    "w": "half",
+    "t0": 0.688,
+    "t1": 1.2
+   },
+   {
+    "w": "the",
+    "t0": 1.24,
+    "t1": 1.36
+   },
+   {
+    "w": "fries",
+    "t0": 1.413,
+    "t1": 1.68
+   },
+   {
+    "w": "are",
+    "t0": 1.72,
+    "t1": 1.84
+   },
+   {
+    "w": "mine?",
+    "t0": 1.904,
+    "t1": 3.2
+   }
+  ]
+ },
+ "ay3": {
+  "role": "ayesha",
+  "scene": "table",
+  "ro": "Strictly half.",
+  "fit": "exact",
+  "end": 3.04,
+  "first": 1.063,
+  "words": [
+   {
+    "w": "Strictly",
+    "t0": 1.063,
+    "t1": 1.28
+   },
+   {
+    "w": "half.",
+    "t0": 1.408,
+    "t1": 3.04
+   }
+  ]
+ },
+ "n7": {
+  "role": "narrator",
+  "scene": "end",
+  "ro": "MealMates. Split bills, share meals, save money together.",
+  "fit": "exact",
+  "end": 4.8,
+  "first": 0.128,
+  "words": [
+   {
+    "w": "MealMates.",
+    "t0": 0.128,
+    "t1": 1
+   },
+   {
+    "w": "Split",
+    "t0": 1.047,
+    "t1": 1.28
+   },
+   {
+    "w": "bills,",
+    "t0": 1.373,
+    "t1": 2.08
+   },
+   {
+    "w": "share",
+    "t0": 2.12,
+    "t1": 2.32
+   },
+   {
+    "w": "meals,",
+    "t0": 2.4,
+    "t1": 2.88
+   },
+   {
+    "w": "save",
+    "t0": 3.008,
+    "t1": 3.52
+   },
+   {
+    "w": "money",
+    "t0": 3.587,
+    "t1": 3.92
+   },
+   {
+    "w": "together.",
+    "t0": 4.009,
+    "t1": 4.8
+   }
+  ]
+ },
+ "n8": {
+  "role": "narrator",
+  "scene": "end",
+  "ro": "Launching soon in Lahore and Multan. Join the waitlist at mealmatesapp.com",
+  "fit": "prop 13/11",
+  "end": 6.16,
+  "first": 0.189,
+  "words": [
+   {
+    "w": "Launching",
+    "t0": 0.189,
+    "t1": 0.4
+   },
+   {
+    "w": "soon",
+    "t0": 0.48,
+    "t1": 0.8
+   },
+   {
+    "w": "in",
+    "t0": 0.853,
+    "t1": 0.96
+   },
+   {
+    "w": "Lahore",
+    "t0": 1.04,
+    "t1": 1.52
+   },
+   {
+    "w": "and",
+    "t0": 1.58,
+    "t1": 1.76
+   },
+   {
+    "w": "Multan.",
+    "t0": 1.824,
+    "t1": 2.8
+   },
+   {
+    "w": "Join",
+    "t0": 3.06,
+    "t1": 3.12
+   },
+   {
+    "w": "the",
+    "t0": 3.184,
+    "t1": 3.84
+   },
+   {
+    "w": "waitlist",
+    "t0": 3.973,
+    "t1": 4.24
+   },
+   {
+    "w": "at",
+    "t0": 4.293,
+    "t1": 5.36
+   },
+   {
+    "w": "mealmatesapp.com",
+    "t0": 5.4,
+    "t1": 5.52
+   }
+  ]
+ }
+}

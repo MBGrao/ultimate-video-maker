@@ -1,0 +1,119 @@
+1
+00:00:00,120 --> 00:00:01,902
+Har client aate hi kehta hai:
+
+2
+00:00:01,922 --> 00:00:03,300
+"Mujhe ek app chahiye."
+
+3
+00:00:03,370 --> 00:00:04,890
+Zyadatar ko nahi chahiye.
+
+4
+00:00:04,910 --> 00:00:07,317
+Unhe chahiye ek spreadsheet jo khud update
+
+5
+00:00:07,337 --> 00:00:07,820
+ho jaaye.
+
+6
+00:00:07,970 --> 00:00:09,408
+Teen sawaal se pata chalega.
+
+7
+00:00:09,469 --> 00:00:12,013
+Teesra wahi hai jahan budget dam tod
+
+8
+00:00:12,033 --> 00:00:12,850
+deta hai.
+
+9
+00:00:13,020 --> 00:00:15,271
+Ek: ise use kaun karega?
+
+10
+00:00:15,291 --> 00:00:17,168
+Customers? Shayad app.
+
+11
+00:00:17,188 --> 00:00:18,417
+Sirf aapki team?
+
+12
+00:00:18,446 --> 00:00:20,403
+To aapko internal tool chahiye,
+
+13
+00:00:20,423 --> 00:00:22,010
+App Store listing nahi.
+
+14
+00:00:22,180 --> 00:00:24,430
+Do: kya wahi kaam roz hota hai?
+
+15
+00:00:24,450 --> 00:00:26,186
+Orders copy karna,
+
+16
+00:00:26,206 --> 00:00:27,429
+reports nikalna,
+
+17
+00:00:27,449 --> 00:00:28,539
+stock update karna.
+
+18
+00:00:28,559 --> 00:00:30,027
+Agar repeat hota hai,
+
+19
+00:00:30,047 --> 00:00:31,300
+to automate karo.
+
+20
+00:00:31,470 --> 00:00:33,856
+Teen: kya aap poora system ek page
+
+21
+00:00:33,876 --> 00:00:35,169
+pe draw kar sakte ho?
+
+22
+00:00:35,189 --> 00:00:35,789
+Agar nahi,
+
+23
+00:00:35,809 --> 00:00:37,284
+to abhi build mat karo.
+
+24
+00:00:37,304 --> 00:00:39,447
+Yahi step log skip karte hain,
+
+25
+00:00:39,467 --> 00:00:41,610
+aur yahin budget explode hota hai.
+
+26
+00:00:41,860 --> 00:00:43,678
+Hum har project ko pehle ek page
+
+27
+00:00:43,698 --> 00:00:45,159
+pe scope karte hain,
+
+28
+00:00:45,179 --> 00:00:46,919
+code ki ek line likhne se bhi
+
+29
+00:00:46,939 --> 00:00:48,699
+pehle. SCOPE comment karo,
+
+30
+00:00:48,719 --> 00:00:51,030
+aur main aapko apni checklist bhej dunga.

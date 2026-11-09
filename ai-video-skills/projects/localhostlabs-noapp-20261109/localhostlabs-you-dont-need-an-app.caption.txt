@@ -1,0 +1,10 @@
+Most businesses don't need an app. They need the boring system that runs every day without anyone touching it.
+
+3 questions before you pay anyone to build:
+1. Who uses it: customers (maybe an app) or your team (an internal tool)?
+2. Does the same job repeat every day?
+3. Can you draw the whole thing on one page?
+
+Comment SCOPE and I'll DM you the one-page checklist we use before every project.
+
+#softwaredevelopment #automation #smallbusiness #startup

@@ -1,0 +1,17 @@
+{
+ "w1": {
+  "role": "waiter",
+  "scene": "waiter",
+  "ro": "Na.",
+  "fit": "exact",
+  "end": 1.2,
+  "first": 0.22,
+  "words": [
+   {
+    "w": "Na.",
+    "t0": 0.22,
+    "t1": 1.2
+   }
+  ]
+ }
+}

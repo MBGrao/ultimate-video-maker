@@ -1,0 +1,42 @@
+{
+ "n4": {
+  "role": "narrator",
+  "scene": "app",
+  "ro": "Aur food buddy seconds mein haazir!",
+  "fit": "exact",
+  "end": 2,
+  "first": 0.144,
+  "words": [
+   {
+    "w": "Aur",
+    "t0": 0.144,
+    "t1": 0.32
+   },
+   {
+    "w": "food",
+    "t0": 0.4,
+    "t1": 0.667
+   },
+   {
+    "w": "buddy",
+    "t0": 0.693,
+    "t1": 0.88
+   },
+   {
+    "w": "seconds",
+    "t0": 0.987,
+    "t1": 1.36
+   },
+   {
+    "w": "mein",
+    "t0": 1.387,
+    "t1": 1.72
+   },
+   {
+    "w": "haazir!",
+    "t0": 1.76,
+    "t1": 2
+   }
+  ]
+ }
+}

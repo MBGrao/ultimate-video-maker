@@ -1,0 +1,8 @@
+{
+  "_doc": "Paid or special requirements the env-var scan cannot see (accounts, MCP logins, desktop apps). Applied by scripts/catalog_scan.py.",
+  "MegaTroll222/VOX-COLLAGE-BROLL": {"cost": "paid-api", "add_providers": {"MaxFusion (hosted MCP: image, video, speech)": ["MCP login: claude mcp add --transport http maxfusion https://mcp.maxfusion.ai/mcp"]}, "note": "Every generation runs through a MaxFusion account; the README has a 'without MaxFusion' mode."},
+  "pyang5166/gbro-collage-broll": {"note": "Also wants Codex image generation, which Claude Code doesn't have; use OpenAI gpt-image or Gemini instead."},
+  "rock3r/cav": {"add_providers": {"Cavalry desktop app": ["install cavalry.studio, then run cav setup"]}, "note": "Drives the Cavalry app (free tier and Pro); needs the `cav` binary in ~/.local/bin."},
+  "dillydog580/animate-roblox-characters": {"note": "Needs Blender 4.5 + Blender MCP + Roblox rigs (all free)."},
+  "zz41354899/mografy": {"note": "Install writes a launcher into /opt/homebrew/bin and ~/.mografy and auto-updates from GitHub; graded CAUTION."}
+}

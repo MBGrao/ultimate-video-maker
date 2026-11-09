@@ -1,0 +1,11 @@
+Teeno chaabiyan aap ke paas hain? Comment karo HAAN ya NAHI, sach batana.
+
+Developer chala jaye to domain uske email pe, code uske laptop mein, aur server ka password sirf usko pata. Phir aap apni hi website ke kiraye-daar ho.
+
+Website banwane se pehle teen cheezein apne naam pe rakho: domain ka registrar account, GitHub ki repository, aur hosting ka login.
+
+Paisa aap ka hai, to chaabi bhi aap ki.
+
+Seedhi baat, no bakwaas.
+
+#localhostlabs #websitedevelopment #scamalert #softwarehouse #pakistanbusiness

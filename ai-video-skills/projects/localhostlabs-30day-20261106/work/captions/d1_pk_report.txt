@@ -1,0 +1,10 @@
+
+HUMANIZE REPORT
+---------------
+0 machine artefacts removed, 1 structural tells flagged for rewrite
+
+4. STRUCTURAL TELLS  (not auto-fixed - rewrite these yourself)
+--------------------------------------------------------------
+    1x  Hashtag wall (5+)
+        Three hashtags. LinkedIn stopped rewarding the wall.
+

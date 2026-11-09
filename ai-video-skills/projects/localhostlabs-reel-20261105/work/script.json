@@ -1,0 +1,16 @@
+[
+ {"k":"hook1","scene":"hook","ro":"Ek aur banda rakhne ka soch rahe ho? Ruko.","hi":"एक और बंदा रखने का सोच रहे हो? रुको।"},
+ {"k":"hook2","scene":"hook","ro":"Aapko staff nahi, system chahiye.","hi":"आपको स्टाफ नहीं, सिस्टम चाहिए।"},
+ {"k":"s1","scene":"story","ro":"Ahmed bhai ke orders ek sheet mein, stock doosri mein.","hi":"अहमद भाई के ऑर्डर्स एक शीट में, स्टॉक दूसरी में।"},
+ {"k":"s2","scene":"story","ro":"Approval WhatsApp pe, aur invoice kisi ke inbox mein.","hi":"अप्रूवल व्हाट्सऐप पे, और इनवॉइस किसी के इनबॉक्स में।"},
+ {"k":"s3","scene":"story","ro":"Har hafte ghante, sirf data idhar se udhar karne mein.","hi":"हर हफ़्ते घंटे, सिर्फ़ डेटा इधर से उधर करने में।"},
+ {"k":"tr","scene":"trans","ro":"Chalo, dukaan ke khaate aur munshi se samajhte hain.","hi":"चलो, दुकान के खाते और मुंशी से समझते हैं।"},
+ {"k":"p1","scene":"p1","ro":"Pehla: ek hi khaata. Orders, stock, invoice, sab ek jagah.","hi":"पहला: एक ही खाता। ऑर्डर्स, स्टॉक, इनवॉइस, सब एक जगह।"},
+ {"k":"p2a","scene":"p2","ro":"Doosra: ek munshi jo kabhi nahi sota.","hi":"दूसरा: एक मुंशी जो कभी नहीं सोता।"},
+ {"k":"p2b","scene":"p2","ro":"Stock bees se kam hua, to WhatsApp alert khud chala gaya.","hi":"स्टॉक बीस से कम हुआ, तो व्हाट्सऐप अलर्ट ख़ुद चला गया।"},
+ {"k":"p3","scene":"p3","ro":"Teesra: roz ki sales report, khud owner ki email pe.","hi":"तीसरा: रोज़ की सेल्स रिपोर्ट, ख़ुद ओनर की ईमेल पे।"},
+ {"k":"pu1","scene":"punch","ro":"Agli baar koi bole, Excel kaafi hai, to bolna:","hi":"अगली बार कोई बोले, एक्सेल काफ़ी है, तो बोलना:"},
+ {"k":"pu2","scene":"punch","ro":"Excel khaata hai. Munshi nahi.","hi":"एक्सेल खाता है। मुंशी नहीं।"},
+ {"k":"c1","scene":"save","ro":"Save kar lo, aur us dost ko bhejo jo abhi bhi sheets mein phansa hai.","hi":"सेव कर लो, और उस दोस्त को भेजो जो अभी भी शीट्स में फँसा है।"},
+ {"k":"c2","scene":"follow","ro":"Follow karo. Aur free tees minute call ke liye, DM karo.","hi":"फ़ॉलो करो। और फ़्री तीस मिनट कॉल के लिए, डीएम करो।"}
+]

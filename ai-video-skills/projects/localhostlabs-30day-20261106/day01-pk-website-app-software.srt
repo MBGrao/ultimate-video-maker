@@ -1,0 +1,47 @@
+1
+00:00:00,120 --> 00:00:04,530
+Developer ne poocha: website chahiye, app, ya software?
+
+2
+00:00:04,500 --> 00:00:06,750
+Aur aap? Bilkul confuse.
+
+3
+00:00:07,086 --> 00:00:09,256
+Teeno ka kaam bilkul alag hai.
+
+4
+00:00:09,226 --> 00:00:12,916
+Aur ghalat cheez pe paisa lagana, sab se mehenga sauda hai.
+
+5
+00:00:12,984 --> 00:00:15,314
+Chalo, mithai ki dukaan se samajhte hain.
+
+6
+00:00:15,678 --> 00:00:21,928
+Pehla: website, yaani dukaan. Log aate hain, mithai dekhte hain, rate dekhte hain.
+
+7
+00:00:22,087 --> 00:00:28,177
+Doosra: app, yaani delivery bike. Seedha customer ki jeb mein, baar baar order.
+
+8
+00:00:28,519 --> 00:00:35,649
+Teesra: software, yaani godown ka munshi. Andar ka saara hisaab: stock, staff, aur bill.
+
+9
+00:00:36,019 --> 00:00:40,269
+Yaad rakho: pehle dukaan, phir bike, phir munshi.
+
+10
+00:00:40,314 --> 00:00:45,204
+Aap ke paas kya hai? Comment karo: dukaan, bike, ya munshi.
+
+11
+00:00:45,655 --> 00:00:49,105
+Confuse ho? DM karo, free call pe samjhayenge.
+
+12
+00:00:49,075 --> 00:00:53,885
+Save karo, follow karo. Seedhi baat, no bakwaas. Localhost Labs.

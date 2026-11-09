@@ -1,0 +1,32 @@
+{
+ "h4": {
+  "role": "hamza",
+  "scene": "call",
+  "ro": "Ammi, pizza khaane chalein?",
+  "fit": "exact",
+  "end": 2.96,
+  "first": 0.28,
+  "words": [
+   {
+    "w": "Ammi,",
+    "t0": 0.28,
+    "t1": 0.56
+   },
+   {
+    "w": "pizza",
+    "t0": 0.6,
+    "t1": 0.88
+   },
+   {
+    "w": "khaane",
+    "t0": 0.92,
+    "t1": 1.307
+   },
+   {
+    "w": "chalein?",
+    "t0": 1.333,
+    "t1": 2.96
+   }
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{"ad1": {"lang": "ur", "lines": [
+ {"k":"pizza1","role":"pizza","scene":"pizza","ro":"Bhai, main do logon ke liye bani hoon. Aadha mujhe kaun khaye ga?","tts":"[sassy] بھائی، میں دو لوگوں کے لیے بنی ہوں۔ آدھا مجھے کون کھائے گا؟"},
+ {"k":"ammi","role":"ammi","scene":"call","ro":"Mera roza hai. Aur tumhara bhi hona chahiye, kamaate kuch ho nahi.","tts":"[annoyed] میرا روزہ ہے۔ اور تمہارا بھی ہونا چاہیے، کماتے کچھ ہو نہیں۔"},
+ {"k":"vo1","role":"narrator","scene":"bench","ro":"Jab saari umeedein toot jaayen…","tts":"[dramatic] جب ساری امیدیں ٹوٹ جائیں…"},
+ {"k":"vo2","role":"narrator","scene":"app","ro":"…MealMates kholo.","tts":"[excited] …میل‌میٹس کھولو۔"},
+ {"k":"pizza2","role":"pizza","scene":"table","ro":"Ab hui na baat!","tts":"[delighted] اب ہوئی نا بات!"},
+ {"k":"vo3","role":"narrator","scene":"end","ro":"Deal 2 ki hai. Dost hum de dein ge.","tts":"[warm] ڈیل دو کی ہے۔ دوست ہم دے دیں گے۔"},
+ {"k":"vo4","role":"narrator","scene":"end","ro":"Waitlist join karo.","tts":"[warm] ویٹ‌لسٹ جوائن کرو۔"}
+]}}

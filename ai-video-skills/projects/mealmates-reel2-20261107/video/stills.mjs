@@ -1,0 +1,12 @@
+import {bundle} from '@remotion/bundler';
+import {renderStill, selectComposition} from '@remotion/renderer';
+import path from 'node:path';
+import fs from 'node:fs';
+const BROWSER = '/Users/mbgrao/Desktop/brag/ai-video-skills/_browsers/chrome-headless-shell-149/chrome-headless-shell';
+const times = process.argv.slice(2).map(Number);
+let serveUrl = 'build';
+if (!fs.existsSync('build/index.html') || process.env.REBUNDLE) serveUrl = await bundle({entryPoint: path.resolve('src/index.ts'), outDir: path.resolve('build'), rspack: true});
+const comp = await selectComposition({serveUrl, id: process.env.COMP || 'MealMatesReel2', browserExecutable: BROWSER});
+fs.mkdirSync('out/stills', {recursive: true});
+for (const t of times) await renderStill({composition: comp, serveUrl, frame: Math.min(comp.durationInFrames - 1, Math.round(t * 30)), output: `out/stills/s_${t.toFixed(2)}.png`, browserExecutable: BROWSER, scale: 0.4, imageFormat: 'png'});
+console.log('stills', times.join(' '));

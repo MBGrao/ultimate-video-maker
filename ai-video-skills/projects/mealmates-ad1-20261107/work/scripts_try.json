@@ -1,0 +1,161 @@
+{
+ "ad1": {
+  "lang": "ur",
+  "lines": [
+   {
+    "k": "n1",
+    "role": "narrator",
+    "scene": "hook",
+    "ro": "Jab deal 2 ki ho… aur aap 1 ho.",
+    "tts": "[dramatic] جب ڈیل دو کی ہو… اور آپ ایک ہو۔"
+   },
+   {
+    "k": "p1",
+    "role": "pizza",
+    "scene": "pizza",
+    "ro": "Bhai, main do logon ke liye bani hoon. Aadha mujhe kaun khaye ga?",
+    "tts": "[sassy] بھائی، میں دو لوگوں کے لیے بنی ہوں۔ آدھا مجھے کون کھائے گا؟"
+   },
+   {
+    "k": "h1",
+    "role": "hamza",
+    "scene": "waiter",
+    "ro": "Bhai, pizza share karo ge?",
+    "tts": "[hopeful] بھائی، پیزا شیئر کرو گے؟"
+   },
+   {
+    "k": "w1",
+    "role": "waiter",
+    "scene": "waiter",
+    "ro": "Na.",
+    "tts": "[smug] نا۔"
+   },
+   {
+    "k": "a1",
+    "role": "announcer",
+    "scene": "waiter",
+    "ro": "Attempt 1, fail!",
+    "tts": "[excited] Attempt one, FAIL!"
+   },
+   {
+    "k": "h2",
+    "role": "hamza",
+    "scene": "cat",
+    "ro": "Billo, pizza?",
+    "tts": "[pleading] بلو، پیزا؟"
+   },
+   {
+    "k": "a2",
+    "role": "announcer",
+    "scene": "cat",
+    "ro": "Attempt 2, fail!",
+    "tts": "[excited] Attempt two, FAIL!"
+   },
+   {
+    "k": "h3",
+    "role": "hamza",
+    "scene": "mirror",
+    "ro": "Tu hi aa ja yaar.",
+    "tts": "[desperate] تو ہی آ جا یار۔"
+   },
+   {
+    "k": "r1",
+    "role": "reflection",
+    "scene": "mirror",
+    "ro": "Main bhi tu hi hoon.",
+    "tts": "[deadpan] میں بھی تو ہی ہوں۔"
+   },
+   {
+    "k": "a3",
+    "role": "announcer",
+    "scene": "mirror",
+    "ro": "Attempt 3, fail!",
+    "tts": "[excited] Attempt three, FAIL!"
+   },
+   {
+    "k": "h4",
+    "role": "hamza",
+    "scene": "call",
+    "ro": "Ammi, pizza khaane chalein?",
+    "tts": "[hopeful] امی، پیزا کھانے چلیں؟"
+   },
+   {
+    "k": "am",
+    "role": "ammi",
+    "scene": "call",
+    "ro": "Mera roza hai. Aur tumhara bhi hona chahiye, kamaate kuch ho nahi.",
+    "tts": "[annoyed] میرا روزہ ہے۔ اور تمہارا بھی ہونا چاہیے، کماتے کچھ ہو نہیں۔"
+   },
+   {
+    "k": "a4",
+    "role": "announcer",
+    "scene": "call",
+    "ro": "Attempt 4, fail!",
+    "tts": "[excited] Attempt four, FAIL!"
+   },
+   {
+    "k": "n2",
+    "role": "narrator",
+    "scene": "bench",
+    "ro": "Jab saari umeedein toot jaayen…",
+    "tts": "[dramatic] جب ساری امیدیں ٹوٹ جائیں…"
+   },
+   {
+    "k": "n3",
+    "role": "narrator",
+    "scene": "app",
+    "ro": "…to MealMates kholo.",
+    "tts": "[excited] …تو میل‌میٹس کھولو۔"
+   },
+   {
+    "k": "n4",
+    "role": "narrator",
+    "scene": "app",
+    "ro": "Food buddy, seconds mein.",
+    "tts": "[excited] Food buddy, سیکنڈز میں۔"
+   },
+   {
+    "k": "p2",
+    "role": "pizza",
+    "scene": "table",
+    "ro": "Ab hui na baat!",
+    "tts": "[delighted] اب ہوئی نا بات!"
+   },
+   {
+    "k": "b1",
+    "role": "bilal",
+    "scene": "table",
+    "ro": "Bill?",
+    "tts": "[curious] بل؟"
+   },
+   {
+    "k": "h5",
+    "role": "hamza",
+    "scene": "table",
+    "ro": "Bill aadha aadha!",
+    "tts": "بل آدھا آدھا!"
+   },
+   {
+    "k": "n5",
+    "role": "narrator",
+    "scene": "table",
+    "ro": "Dono ke liye fifty percent off!",
+    "tts": "[excited] دونوں کے لیے ففٹی پرسنٹ آف!"
+   },
+   {
+    "k": "n6",
+    "role": "narrator",
+    "scene": "end",
+    "ro": "Deal 2 ki hai. Dost hum de dein ge.",
+    "tts": "[warm] ڈیل دو کی ہے۔ دوست ہم دے دیں گے۔"
+   },
+   {
+    "k": "n7",
+    "role": "narrator",
+    "scene": "end",
+    "ro": "Waitlist join karo, mealmatesapp dot com par.",
+    "tts": "[warm] ویٹ‌لسٹ جوائن کرو، میل‌میٹس‌ایپ ڈاٹ کام پر۔"
+   }
+  ]
+ }
+}

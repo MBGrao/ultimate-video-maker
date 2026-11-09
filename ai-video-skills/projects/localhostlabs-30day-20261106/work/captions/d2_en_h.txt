@@ -1,0 +1,11 @@
+Do you own all three keys? Comment YES or NO, honestly.
+
+Who owns your website code? If your developer disappeared tomorrow, the domain would be on their email, the code on their laptop, and the server password in their head. You'd be renting your own website.
+
+Before you hire a developer, make sure three things are in your name: the domain registrar account, the GitHub repository, and the hosting or cloud login.
+
+You paid for it. Own the keys.
+
+No jargon. Just shipped.
+
+#localhostlabs #smallbusinessowner #webdevelopment #founders #cybersecurity

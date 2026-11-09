@@ -1,0 +1,107 @@
+1
+00:00:00,120 --> 00:00:01,898
+Every client walks in saying:
+
+2
+00:00:01,918 --> 00:00:02,850
+"I need an app."
+
+3
+00:00:02,920 --> 00:00:03,838
+Most of them don't.
+
+4
+00:00:03,858 --> 00:00:05,800
+They need a spreadsheet that updates itself.
+
+5
+00:00:05,950 --> 00:00:07,211
+Three questions to tell.
+
+6
+00:00:07,231 --> 00:00:09,680
+The third is where budgets die.
+
+7
+00:00:09,850 --> 00:00:11,407
+One: who uses it?
+
+8
+00:00:11,427 --> 00:00:12,782
+Customers, maybe an app.
+
+9
+00:00:12,802 --> 00:00:14,108
+Only your team?
+
+10
+00:00:14,128 --> 00:00:15,459
+You need an internal tool,
+
+11
+00:00:15,479 --> 00:00:16,710
+not an App Store listing.
+
+12
+00:00:16,880 --> 00:00:19,321
+Two: does the same job happen every
+
+13
+00:00:19,341 --> 00:00:21,172
+day? Copying orders,
+
+14
+00:00:21,192 --> 00:00:22,199
+pulling reports,
+
+15
+00:00:22,219 --> 00:00:23,271
+updating stock.
+
+16
+00:00:23,384 --> 00:00:24,624
+If it repeats,
+
+17
+00:00:24,644 --> 00:00:25,870
+automate it.
+
+18
+00:00:26,040 --> 00:00:27,659
+Three: can you draw the whole thing
+
+19
+00:00:27,679 --> 00:00:28,744
+on one page?
+
+20
+00:00:28,764 --> 00:00:29,311
+If not,
+
+21
+00:00:29,331 --> 00:00:30,100
+don't build yet.
+
+22
+00:00:30,120 --> 00:00:32,349
+That's the step people skip,
+
+23
+00:00:32,369 --> 00:00:33,930
+and where budgets explode.
+
+24
+00:00:34,180 --> 00:00:36,581
+We scope every project on one page
+
+25
+00:00:36,601 --> 00:00:38,606
+before writing a line of code.
+
+26
+00:00:38,626 --> 00:00:40,192
+Comment SCOPE and I'll send you our
+
+27
+00:00:40,212 --> 00:00:40,960
+checklist.

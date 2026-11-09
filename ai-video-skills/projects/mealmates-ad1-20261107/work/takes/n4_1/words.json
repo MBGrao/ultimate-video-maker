@@ -1,0 +1,42 @@
+{
+ "n4": {
+  "role": "narrator",
+  "scene": "app",
+  "ro": "Food buddy, sirf chand seconds mein.",
+  "fit": "exact",
+  "end": 2.48,
+  "first": 0,
+  "words": [
+   {
+    "w": "Food",
+    "t0": 0,
+    "t1": 0.4
+   },
+   {
+    "w": "buddy,",
+    "t0": 0.44,
+    "t1": 0.96
+   },
+   {
+    "w": "sirf",
+    "t0": 1.06,
+    "t1": 1.36
+   },
+   {
+    "w": "chand",
+    "t0": 1.42,
+    "t1": 1.6
+   },
+   {
+    "w": "seconds",
+    "t0": 1.707,
+    "t1": 2.16
+   },
+   {
+    "w": "mein.",
+    "t0": 2.213,
+    "t1": 2.48
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+1
+00:00:00,120 --> 00:00:02,130
+Website, app, or software?
+
+2
+00:00:02,100 --> 00:00:04,830
+Most business owners pay for the wrong one.
+
+3
+00:00:04,950 --> 00:00:07,760
+They sound the same. They do completely different jobs.
+
+4
+00:00:08,155 --> 00:00:09,605
+Think of a coffee shop.
+
+5
+00:00:09,780 --> 00:00:15,950
+One. Your website is the storefront. People find you, check the menu, and walk in.
+
+6
+00:00:16,212 --> 00:00:22,542
+Two. An app is the loyalty card in their pocket. It brings them back, again and again.
+
+7
+00:00:22,621 --> 00:00:29,991
+Three. Software is the back office. Inventory, staff, payroll. Everything customers never see.
+
+8
+00:00:30,121 --> 00:00:35,811
+Storefront first. Loyalty card later. Back office when it starts to hurt.
+
+9
+00:00:36,019 --> 00:00:41,629
+Which one do you need right now? Comment storefront, card, or back office.
+
+10
+00:00:41,916 --> 00:00:45,126
+Not sure? DM us. The first call is free.
+
+11
+00:00:45,096 --> 00:00:48,626
+No jargon. Just shipped. Localhost Labs.

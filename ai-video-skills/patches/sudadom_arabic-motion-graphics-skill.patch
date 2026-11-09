@@ -1,0 +1,14 @@
+diff --git a/skills/arabic-motion-graphics/templates/remotion/remotion.config.ts b/skills/arabic-motion-graphics/templates/remotion/remotion.config.ts
+index 2bda781..6e56666 100644
+--- a/skills/arabic-motion-graphics/templates/remotion/remotion.config.ts
++++ b/skills/arabic-motion-graphics/templates/remotion/remotion.config.ts
+@@ -4,3 +4,9 @@ Config.setVideoImageFormat('jpeg');
+ Config.setOverwriteOutput(true);
+ Config.setPixelFormat('yuv420p');
+ Config.setCrf(18);
++
++// Local fix: Remotion's bundled Chrome 157 headless shell crashes on this Mac
++// (icu_util "Check failed"). Pin the working Chrome 149 copy.
++Config.setBrowserExecutable(
++  '/Users/mbgrao/Desktop/brag/ai-video-skills/_browsers/chrome-headless-shell-149/chrome-headless-shell',
++);

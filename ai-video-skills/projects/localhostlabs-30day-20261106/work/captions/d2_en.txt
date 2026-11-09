@@ -1,0 +1,11 @@
+Do you own all 3 keys? Comment YES or NO, honestly.
+
+Day 2/30, scam alert. Who owns your website code? If your developer disappeared tomorrow, the domain would be on their Gmail, the code on their laptop, and the server password in their head. You'd be renting your own website.
+
+Before you hire a developer, put 3 things in your name: the domain registrar account, the GitHub repository, and the AWS or Vercel login.
+
+You paid for it. Own the keys.
+
+No jargon. Just shipped. Localhost Labs.
+
+#localhostlabs #smallbusinessowner #cybersecurity

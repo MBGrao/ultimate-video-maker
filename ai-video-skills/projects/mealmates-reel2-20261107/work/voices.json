@@ -1,0 +1,17 @@
+{
+ "narrator": {
+  "id": "FF7KdobWPaiR0vkcALHF",
+  "name": "David - Movie Trailer Narrator",
+  "style": 0.55
+ },
+ "ayesha": {
+  "id": "SYVQhjMSUvWA1w0HkidA",
+  "name": "Maya - South Asian Female",
+  "style": 0.6
+ },
+ "zain": {
+  "id": "ZQAISeGMtjo0Hfr3SGiD",
+  "name": "Abrash - Pakistani accent",
+  "style": 0.6
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "n2": {
+  "role": "narrator",
+  "scene": "bench",
+  "ro": "Jab saari umeedein toot jaayen…",
+  "fit": "exact",
+  "end": 2.16,
+  "first": 0.15,
+  "words": [
+   {
+    "w": "Jab",
+    "t0": 0.15,
+    "t1": 0.24
+   },
+   {
+    "w": "saari",
+    "t0": 0.32,
+    "t1": 0.72
+   },
+   {
+    "w": "umeedein",
+    "t0": 0.8,
+    "t1": 1.4
+   },
+   {
+    "w": "toot",
+    "t0": 1.52,
+    "t1": 1.68
+   },
+   {
+    "w": "jaayen…",
+    "t0": 1.76,
+    "t1": 2.16
+   }
+  ]
+ }
+}

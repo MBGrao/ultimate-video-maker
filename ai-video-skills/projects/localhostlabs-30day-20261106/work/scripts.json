@@ -1,0 +1,56 @@
+{
+ "d1_pk": {"lang": "ur", "series": "> explain()", "lines": [
+  {"k":"hook","scene":"hook","ro":"Developer ne poocha: website chahiye, app, ya software?","tts":"ڈیولپر نے پوچھا: ویب‌سائٹ چاہیے، ایپ، یا سافٹ‌ویئر؟"},
+  {"k":"hook2","scene":"hook","ro":"Aur aap? Bilkul confuse.","tts":"اور آپ؟ بالکل کنفیوز۔"},
+  {"k":"ctx1","scene":"ctx","ro":"Teeno ka kaam bilkul alag hai.","tts":"تینوں کا کام بالکل الگ ہے۔"},
+  {"k":"ctx2","scene":"ctx","ro":"Aur ghalat cheez pe paisa lagana, sab se mehenga sauda hai.","tts":"اور غلط چیز پہ پیسہ لگانا، سب سے مہنگا سودا ہے۔"},
+  {"k":"tr","scene":"trans","ro":"Chalo, mithai ki dukaan se samajhte hain.","tts":"چلو، مٹھائی کی دکان سے سمجھتے ہیں۔"},
+  {"k":"p1","scene":"p1","ro":"Pehla: website, yaani dukaan. Log aate hain, mithai dekhte hain, rate dekhte hain.","tts":"پہلا: ویب‌سائٹ، یعنی دکان۔ لوگ آتے ہیں، مٹھائی دیکھتے ہیں، ریٹ دیکھتے ہیں۔"},
+  {"k":"p2","scene":"p2","ro":"Doosra: app, yaani delivery bike. Seedha customer ki jeb mein, baar baar order.","tts":"دوسرا: ایپ، یعنی ڈلیوری بائیک۔ سیدھا کسٹمر کی جیب میں، بار بار آرڈر۔"},
+  {"k":"p3","scene":"p3","ro":"Teesra: software, yaani godown ka munshi. Andar ka saara hisaab: stock, staff, aur bill.","tts":"تیسرا: سافٹ‌ویئر، یعنی گودام کا منشی۔ اندر کا سارا حساب: سٹاک، سٹاف، اور بل۔"},
+  {"k":"pu","scene":"punch","ro":"Yaad rakho: pehle dukaan, phir bike, phir munshi.","tts":"یاد رکھو: پہلے دکان، پھر بائیک، پھر منشی۔"},
+  {"k":"tg","scene":"trigger","ro":"Aap ke paas kya hai? Comment karo: dukaan, bike, ya munshi.","tts":"آپ کے پاس کیا ہے؟ کمنٹ کرو: دکان، بائیک، یا منشی۔"},
+  {"k":"dm","scene":"cta","ro":"Confuse ho? DM karo, free call pe samjhayenge.","tts":"کنفیوز ہو؟ ڈی‌ایم کرو، فری کال پہ سمجھائیں‌گے۔"},
+  {"k":"so","scene":"cta","ro":"Save karo, follow karo. Seedhi baat, no bakwaas. Localhost Labs.","tts":"سیو کرو، فالو کرو۔ سیدھی بات، نو بکواس۔ لوکل‌ہوسٹ لیبز۔"}
+ ]},
+ "d1_en": {"lang": "en", "series": "> explain()", "lines": [
+  {"k":"hook","scene":"hook","ro":"Website, app, or software?"},
+  {"k":"hook2","scene":"hook","ro":"Most business owners pay for the wrong one."},
+  {"k":"ctx1","scene":"ctx","ro":"They sound the same. They do completely different jobs."},
+  {"k":"tr","scene":"trans","ro":"Think of a coffee shop."},
+  {"k":"p1","scene":"p1","ro":"One. Your website is the storefront. People find you, check the menu, and walk in."},
+  {"k":"p2","scene":"p2","ro":"Two. An app is the loyalty card in their pocket. It brings them back, again and again."},
+  {"k":"p3","scene":"p3","ro":"Three. Software is the back office. Inventory, staff, payroll. Everything customers never see."},
+  {"k":"pu","scene":"punch","ro":"Storefront first. Loyalty card later. Back office when it starts to hurt."},
+  {"k":"tg","scene":"trigger","ro":"Which one do you need right now? Comment storefront, card, or back office."},
+  {"k":"dm","scene":"cta","ro":"Not sure? DM us. The first call is free."},
+  {"k":"so","scene":"cta","ro":"No jargon. Just shipped. Localhost Labs."}
+ ]},
+ "d2_pk": {"lang": "ur", "series": "> scam.alert", "lines": [
+  {"k":"hook","scene":"hook","ro":"Developer chala gaya… aur saath mein aap ki website bhi.","tts":"ڈیولپر چلا گیا… اور ساتھ میں آپ کی ویب‌سائٹ بھی۔"},
+  {"k":"s1","scene":"story","ro":"Bilal bhai ka developer, ek din phone band kar ke ghayab.","tts":"بلال بھائی کا ڈیولپر، ایک دن فون بند کر کے غائب۔"},
+  {"k":"s2","scene":"story","ro":"Domain uske email pe. Code uske laptop mein. Server ka password, sirf usko pata.","tts":"ڈومین اس‌کے ای‌میل پہ۔ کوڈ اس‌کے لیپ‌ٹاپ میں۔ سرور کا پاس‌ورڈ، صرف اس‌کو پتا۔"},
+  {"k":"s3","scene":"rent","ro":"Ab Bilal bhai, apni hi website ke kiraye-daar hain.","tts":"اب بلال بھائی، اپنی ہی ویب‌سائٹ کے کرایہ‌دار ہیں۔"},
+  {"k":"tr","scene":"trans","ro":"Teen cheezein, jo hamesha aap ke naam pe honi chahiye.","tts":"تین چیزیں، جو ہمیشہ آپ کے نام پہ ہونی چاہئیں۔"},
+  {"k":"p1","scene":"p1","ro":"Pehli: domain. Registrar ka account, aap ki apni email pe.","tts":"پہلی: ڈومین۔ رجسٹرار کا اکاؤنٹ، آپ کی اپنی ای‌میل پہ۔"},
+  {"k":"p2","scene":"p2","ro":"Doosri: code. GitHub ki repository, aap ke apne account mein.","tts":"دوسری: کوڈ۔ گٹ‌ہب کی ریپوزٹری، آپ کے اپنے اکاؤنٹ میں۔"},
+  {"k":"p3","scene":"p3","ro":"Teesri: hosting. Server ka login, aap ke apne haath mein.","tts":"تیسری: ہوسٹنگ۔ سرور کا لاگ‌ان، آپ کے اپنے ہاتھ میں۔"},
+  {"k":"pu","scene":"punch","ro":"Paisa aap ka hai, to chaabi bhi aap ki.","tts":"پیسہ آپ کا ہے، تو چابی بھی آپ کی۔"},
+  {"k":"tg","scene":"trigger","ro":"Teeno chaabiyan aap ke paas hain? Comment karo: mere paas, ya pata nahi.","tts":"تینوں چابیاں آپ کے پاس ہیں؟ کمنٹ کرو: میرے پاس، یا پتا نہیں۔"},
+  {"k":"dm","scene":"cta","ro":"Apna setup check karwana hai? DM karo, free call pe dekh lete hain.","tts":"اپنا سیٹ‌اپ چیک کروانا ہے؟ ڈی‌ایم کرو، فری کال پہ دیکھ لیتے ہیں۔"},
+  {"k":"so","scene":"cta","ro":"Seedhi baat, no bakwaas. Localhost Labs.","tts":"سیدھی بات، نو بکواس۔ لوکل‌ہوسٹ لیبز۔"}
+ ]},
+ "d2_en": {"lang": "en", "series": "> scam.alert", "lines": [
+  {"k":"hook","scene":"hook","ro":"If your developer disappeared tomorrow, would your business survive?"},
+  {"k":"s2","scene":"story","ro":"The domain is on their email. The code lives on their laptop. Only they know the server password."},
+  {"k":"s3","scene":"rent","ro":"You paid for it. But you're renting your own website."},
+  {"k":"tr","scene":"trans","ro":"Here are the three keys you must own."},
+  {"k":"p1","scene":"p1","ro":"One. Your domain. The registrar account, on your own email."},
+  {"k":"p2","scene":"p2","ro":"Two. Your code. The GitHub repository, in your own account."},
+  {"k":"p3","scene":"p3","ro":"Three. Your hosting. The server or cloud login, in your hands."},
+  {"k":"pu","scene":"punch","ro":"You paid for it. Own the keys."},
+  {"k":"tg","scene":"trigger","ro":"Do you have all three? Comment own it, or not sure."},
+  {"k":"dm","scene":"cta","ro":"Want a second pair of eyes on your setup? DM us. The first call is free."},
+  {"k":"so","scene":"cta","ro":"No jargon. Just shipped. Localhost Labs."}
+ ]}
+}

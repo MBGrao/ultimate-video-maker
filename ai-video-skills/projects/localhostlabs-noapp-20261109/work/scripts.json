@@ -1,0 +1,56 @@
+{
+ "reel": {
+  "lang": "en",
+  "lines": [
+   {
+    "k": "hook",
+    "role": "host",
+    "scene": "hook",
+    "ro": "Every client walks in saying: \"I need an app.\"",
+    "tts": "[confident] Every client walks in saying... \"I need an app.\""
+   },
+   {
+    "k": "con",
+    "role": "host",
+    "scene": "con",
+    "ro": "Most of them don't. They need a spreadsheet that updates itself.",
+    "tts": "[matter-of-fact] Most of them don't. They need a spreadsheet that updates itself."
+   },
+   {
+    "k": "stay",
+    "role": "host",
+    "scene": "stay",
+    "ro": "Three questions to tell. The third is where budgets die.",
+    "tts": "[serious] Three questions to tell. The third is where budgets die."
+   },
+   {
+    "k": "q1",
+    "role": "host",
+    "scene": "q1",
+    "ro": "One: who uses it? Customers, maybe an app. Only your team? You need an internal tool, not an App Store listing.",
+    "tts": "One: who uses it? Customers, maybe an app. Only your team? You need an internal tool, not an App Store listing."
+   },
+   {
+    "k": "q2",
+    "role": "host",
+    "scene": "q2",
+    "ro": "Two: does the same job happen every day? Copying orders, pulling reports, updating stock. If it repeats, automate it.",
+    "tts": "[clear] Two. Does the same job happen every day? Copying orders, pulling reports, updating stock. If it repeats, automate it."
+   },
+   {
+    "k": "q3",
+    "role": "host",
+    "scene": "q3",
+    "ro": "Three: can you draw the whole thing on one page? If not, don't build yet. That's the step people skip, and where budgets explode.",
+    "tts": "Three: can you draw the whole thing on one page? If not, don't build yet. That's the step people skip... and where budgets explode."
+   },
+   {
+    "k": "cta",
+    "role": "host",
+    "scene": "cta",
+    "ro": "We scope every project on one page before writing a line of code. Comment SCOPE and I'll send you our checklist.",
+    "tts": "[warm] We scope every project on one page before writing a line of code. Comment scope, and I'll send you our checklist."
+   }
+  ]
+ }
+}

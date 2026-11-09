@@ -1,0 +1,47 @@
+# ---- secrets ----
+.env.local
+**/.env.local
+config/.env.local
+
+# ---- third-party clones (restored by scripts/restore.sh from core-packages.json + catalog/lock.json) ----
+catalog/*/
+claude-content-kit/
+instagram-agent-skill/
+remotion-ad-video-skill/
+remotion-ads/
+remotion-official-skills/
+shortcast/
+viral-hooks-skill/
+motion-graphics/*/
+_browsers/
+
+# ---- dependencies / build output ----
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+**/build/
+**/out/
+**/dist/
+
+# ---- heavy media in projects: hosted on the media server (see ../MEDIA.md), not in git ----
+projects/**/*.mp4
+projects/**/*.mov
+projects/**/*.wav
+projects/**/*.aiff
+projects/**/*.mp3
+projects/**/*.png
+projects/**/*.jpg
+projects/**/*.jpeg
+projects/**/*.onnx
+projects/**/*.bin
+projects/**/*.pt
+projects/**/work/frames/
+projects/**/work/stills/
+
+# ---- cruft ----
+.DS_Store
+**/.DS_Store
+catalog/sync*.log
